@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Evaluation
 
-<b>The primary purpose of this reop is to establish a standardized evaluation protocol and provide a convenient evaluation tool for future research in multilingual sentence embeddings.</b> You can find the scripts to evaluate popular multilingual sentence embeddings in [eval_scripts/test_*.sh](./eval_scripts)
+<b>The primary purpose of this repo is to establish a standardized evaluation protocol and provide a convenient evaluation tool for future research in multilingual sentence embeddings.</b> You can find the scripts to evaluate popular multilingual sentence embeddings in [eval_scripts/test_*.sh](./eval_scripts)
 
 You can evaluate any `transformers`-based pre-trained models (on Huggingface) using the evaluation code. For example,
 ```bash
@@ -90,6 +90,7 @@ which is expected to output the results in a tabular format:
 The `--task_set` argument is used to specify what set of tasks to evaluate on, including
 * `msts`: Evaluate on multilingual `STS 17` tasks.
 * `ml_transfer`: Evaluate on multilingual transfer tasks.
+* `full`: Evaluate on multilingual `STS 17` tasks and multilingual transfer tasks.
 * `na`: Manually set tasks by `--tasks`.
 
 When the `--task_set` argument is set to `na` or not set, the `--tasks` argument can be set to specify individual task(s) to evaluate on. For example,
