@@ -1,0 +1,374 @@
+You have reached a point where the terminals are not connected to each other.	the terminals are not connected	4.2	1.3333333333333333	95.72363472243117
+if there is a gap between the terminals, the voltage will be different.	Measuring voltage indicates whether two terminals are separated by a gap.	4.0	0.975	81.14939070257259
+"because switch z is in bulb c""s closed path"	there is a path containing both Z and C	4.2	1.1865079365079365	93.0306905370844
+Because terminal 1 is not connected to terminal 6.	Terminals 1 and 6 are not connected	4.6	1.092857142857143	89.48397773431623
+the battery alone is in a closed path	The battery is contained in a path which does not contain any other components	4.2	0.9821428571428572	81.81886565367834
+Terminal 1 is connected to terminl 4.	Terminals 1 and 4 are connected	5.0	1.0208333333333335	85.29787874228975
+the positive battery terminal is connected to terminal 4.	Terminal 4 and the positive terminal are connected	5.0	1.0125	84.26357755378366
+Bulb A is on its own closed path and bulbs B and C are on the same closed path	there is a path containing A and a different path containing B and C	4.6	0.9924812030075187	82.21754174815706
+Because the path between the battery and the light bulb is not closed	the path is not closed	4.0	1.1076923076923078	90.22115239957876
+bulb c and switch z are in the same closed path	there is a path containing both Z and C	4.4	1.1111111111111112	90.4543403038965
+terminal 1is connected to terminal 4	Terminals 1 and 4 are connected	5.0	1.0	82.83436136602978
+terminal one is not connected to terminal six	Terminals 1 and 6 are not connected	5.0	1.0714285714285714	88.24281630810893
+the paths of the circuit are no longer complete	there is an incomplete circuit	4.8	1.2444444444444445	94.29065743944636
+if the electrical state is non-zero you can find the gap in the circuit	A non-zero voltage means that there is a gap	4.0	1.1865079365079365	93.0306905370844
+that  there is no difference in electrical states of the two terminals	The terminals are in the same state.	4.0	1.1458333333333333	91.90988415826689
+There is a gap between the two bulb terminals	the terminals are separated by a gap	4.17	1.1428571428571428	91.78576801564616
+the electrical states between the terminals is the same, resulting in 0	The terminals are in the same state.	4.0	1.0096153846153846	83.9326011734617
+"becuase bulb C is on it""s own pathway."	Bulb C is in a separate path	4.17	1.1785714285714286	92.85768015646156
+You needed both a battery and a blub with the same path, and the path must be closed	there is a closed path containing both the bulb and a battery	4.0	1.0877192982456139	89.18685121107266
+there is not a gap in the connection	the terminals are not separated by a gap	4.17	1.0	82.83436136602978
+switch X does not effect bulbs B and C	There is a path with B and C that does not include X	4.4	1.0341880341880343	86.20054159771325
+there is no gap between the positive battery terminal and terminal 6	Terminal 6 and the positive terminal are not separated by the gap	4.4	1.0	82.83436136602978
+because bulb a is in a closed path, and bulb c is in a closed path.	Bulbs A and C are still in closed paths	4.6	1.1666666666666667	92.58688129983452
+bulbs will be affected by switches that are in the path	If a bulb and a switch are in the same path the switch affects the bulb	4.6	0.9971590909090909	82.35670227170152
+Terminal 4 is connected to the positve battery terminal and terminal 4 is not seperated by a gap	Terminal 4 and the positive terminal are connected	4.0	1.2638888888888888	94.8247329622386
+there is still a closed path that contains the battery and bulb a and bulb c	Bulbs A and C are still contained in closed paths with the battery	5.0	1.0456730769230769	86.81736121558598
+Because the positive batter terminal and terminal 6 were connected.	Terminal 6 and the positive terminal are connected	4.4	0.9715909090909092	80.18278922822326
+The ppositive battery terminal is connected in terminal 6.	Terminal 6 and the positive terminal are connected	4.8	1.0125	84.26357755378366
+there will be a gap at bulb b, thus affecting the rest of the circuit	bulb B creates a gap	4.0	1.8375	98.55197833609147
+because terminal 1 is directly connected to terminal 4	Terminals 1 and 4 are connected	4.8	1.1111111111111112	90.4543403038965
+There is still a closed path that contains the battery, Bulb B, and Bulb C.	bulbs B and C are still in closed paths with the battery	4.6	1.1372549019607843	91.49992477809538
+bulbs b anc c are on the same closed path with the battery but seperate from bulb a	there is a path containing A and a different path containing B and C	4.2	1.0793650793650793	88.55122611704529
+electrical states will determine whether there is a gap or connection in the circuit	Measuring voltage indicates whether two terminals are separated by a gap.	4.2	1.005952380952381	83.69189107868212
+Bulb A is on a closed circut path	Bulb A was still contained in the same closed path with the battery.	4.0	1.0803571428571428	88.73928087859184
+gap between 3 and positive battery	Terminal 3 and the positive terminal are separated by the gap	4.0	1.1590909090909092	92.19196630058673
+there is no closed path in circuit 4.	Circuit 4 has no closed paths	5.0	1.1111111111111112	90.4543403038965
+Bulb A has a closed pathway	Bulb A was still contained in the same closed path with the battery.	4.0	1.3095238095238095	95.50173010380622
+does anyone know if this is possible??	how is that possible?	4.0	1.0888888888888888	89.27335640138408
+why didn't we ever hear about it during the bush admin when during his admin the national debt was more than doubled?	but they never mentioned the doubling of the national debt under the bush admin.	4.6	1.0833333333333333	88.78065292613209
+utter fucking nonsense.	that doesn't make any sense.	4.4	1.1785714285714286	92.85768015646156
+Olivia Colman wins second BAFTA Award	Baftas 2013: Olivia Colman picks up two awards	4.4	0.9722222222222223	80.49496013239055
+David Beckham to retire at end of season	David Beckham Retires From Football	4.4	0.975	81.14939070257259
+Queen visits London soldier attack scene	Queen Elizabeth II visits barracks of UK soldier slain last week	4.2	1.0303030303030303	86.01248683616669
+China's Peace Ark departs for the Philippines Thursday	China sends aid team to Philippines	4.0	0.9722222222222223	80.49496013239055
+Son of US evangelist kills himself The son of popular US evangelist Rick Warren has killed himself.	Son of popular US evangelist Warren kills himself	4.4	0.9930555555555556	82.24010831954266
+Updated - Two explosions near finish line of Boston Marathon	Two explosions at Boston Marathon finish line	5.0	0.9714285714285714	80.03234541898601
+U.S. fast-food workers plan nationwide strikes over minimum wage	Fast-food workers strike for higher pay	4.0	0.9722222222222223	80.49496013239055
+MERS respiratory illness found in U.S., officials confirm	First case of MERS, a SARS-like respiratory illness, reported in North America	4.2	1.0952380952380951	89.69083797201745
+Record-setting Southwest heat wave turns fatal	At least 1 dead, 40 hospitalized in Southwest heat wave	4.0	1.2878787878787878	95.23093124717919
+It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.	In a few billion years, the Milky Way and Andromeda will collide.	4.4	1.0916149068322982	89.38242816308109
+It's pretty difficult to imagine a person with Social Anxiety Disorder being an extrovert.	On the surface, it does seem like social anxiety disorder and extroversion shouldn't both exist in the same person.	4.2	1.0255681818181819	85.57619978937866
+I agree with others (and yourself) in that I have never heard this phrase in English.	I have never heard or seen the phrase you mention.	4.0	1.076555023923445	88.51737625996691
+Pardon the brevity of this answer, but I would say "named" is preferred within the context of your example.	Named is preferred in your example, since you are formally giving a name to your method.	4.4	0.9903381642512077	82.07462012938167
+Yes, you can add coffee grounds with their filters to your compost pile.	Absolutely ok; we have incorporated coffee grounds into our plant food and many of those grounds included the paper filter.	4.0	1.0651515151515152	87.77267940424251
+It would be unusual for a snake to attack a stationary person.	I'm no herpetologist, but in my experience, snakes are in the "you don't bug me, I won't bug you" category.	4.2	1.5596816976127321	97.56281029035655
+Yes, this is OK, as it allows you to emphasise certain things, that you want the readers to notice.	I believe this is perfectly acceptable and does a good job of emphasising your point.	4.0	1.059782608695652	87.47555288099895
+#NRA releases target shooting app, hmm wait a sec..	NRA draws heat for shooting game	4.0	1.375	96.21257710245223
+Interesting article on the CNN homepage. "Mickleson has a point on taxes."	Mickelson has a point on taxes	4.4	1.2604166666666665	94.76455543854371
+SPORT: MT  Lance Armstrong confesses to doping. Next step? Testifying against the higher-ups in cycling.	Armstrong Admits Doping, and Says He Will Testify Against Cycling Officials	4.6	1.0877192982456139	89.18685121107266
+The truth about publicity...  Bad publicity does exist. #pr #media	Maybe There Is Such a Thing as Bad Publicity	4.0	1.2777777777777777	95.06920415224913
+In the Gowanus Canal, a dolphin	Dolphin Swimming in Gowanus Canal	4.4	1.0285714285714285	85.79434331277268
+"humanitarian emergency."declared by Aid groups in Syria "	'Humanitarian emergency' in Syria	4.4	1.275	94.97517677147586
+": Britney Spears calls off engagement " loool CNN reports this? Where is this world going?	Britney Spears, Jason Trawick call off engagement	4.25	1.5098684210526316	97.18293967203249
+Worth Watching. "Set for Life" Documenting a Generation?s Fall.   #work #unemployment #babyboomer	Our Generation: ?Set for Life? Documents Crisis Among Baby Boomers	4.0	1.0586080586080586	87.46426959530615
+Dreamliner fix: 'It's not easy' -  this a big mess that is not easy.	787 Dreamliner fix: 'It's not easy'	4.0	1.064327485380117	87.74259064239507
+We're all human, No MORE DEATH Please! Another Tibetan sets himself on fire, dies to protest Chinese rule	Tibetan sets himself on fire to protest Chinese rule	4.2	1.0176767676767677	84.88791936211825
+France: We're not the pacifists you think we are -  Mali	Why France is not pacifist nation	4.0	1.4615384615384617	96.8331578155559
+States get extension on #healthexchange timetable: : States Get Extra Time to Set Up Exchanges  #ACA #HCR	States Will Be Given Extra Time to Set Up Health Insurance Exchanges	4.6	0.9821428571428572	81.81886565367834
+New low for water levels in the Great Lakes #Drought	Water brings new lows on Great Lakes	4.0	1.051948051948052	87.17090416729351
+So, can we just pass the ERA now? Pentagon Is Set to Lift Combat Ban for Women	Pentagon Lifting Ban on Women in Combat	4.0	1.7593984962406015	98.35264028885211
+*****NYTimes: Security Firm Discovers Cyber-Spy Campaign*****	Bits Blog: Security Firm Discovers Global Spy Campaign	4.4	1.1045751633986929	90.19482473296223
+Returning Zing to Dutch Cooking  ?Let?s go Dutch?? #Gartine	Putting Spice Into Dutch Cooking	4.2	1.7333333333333334	98.28117947946443
+Obama must prove himself on Palestine: NYTimes: Netanyahu Issues Veiled Barb in Response to Criticism From Obama	Netanyahu Issues Veiled Response to Criticism From Obama	4.0	0.9769736842105263	81.45780051150895
+Woah. Fox News did not renew Sarah Palin's contract, which just expired.	Fox News and Sarah Palin Part Ways	4.2	1.2321428571428572	94.09508048743794
+UnfairRT : Readers sue Lance Armstrong for book refund after doping admission:  What do you think?	Readers sue Armstrong for book refund	4.0	1.3333333333333333	95.72363472243117
+Miss Montana has a great story to tell.  #autism	Miss Montana on her autism	5.0	1.1636363636363636	92.28975477659094
+What the what?! ?: Voice of Charlie Brown arrested, charged. ?	Good grief! Charlie Brown actor charged	4.6	1.2321428571428572	94.09508048743794
+The Gulf's 'green' buildings  #Amman #CNN	Coolest green buildings in the Gulf	4.0	1.1590909090909092	92.19196630058673
+NYTimes: N.R.A. Attacks Obama & Daughters in Video \ repugnant.	N.R.A. Attacks Obama in Video	4.0	0.9916666666666667	82.15736422446216
+#Socialmedia makes folks more honest, says #Cornell prof #Facebook #LinkedIn	Social media make us more honest	4.4	1.5166666666666666	97.2318339100346
+Weird, just the voice? ": Voice of Charlie Brown arrested, charged. "	Good grief! Charlie Brown actor charged	4.0	1.4117647058823528	96.53227019708139
+Public takes its shots at Armstrong--What do you guys think of Armstrong's doping?	Public lashes out at Armstrong	4.0	1.6	97.68316533774635
+After U.S. threat, North Korea turns ire on South  #military #SKorea #NKorea #US #politics	After threats against U.S., North Korea turns ire to South	4.0	0.9863636363636363	81.96554836768468
+Russian Military Ordered to Switch to Socks  I learned something new today!!!	At War Blog: Russian Military Ordered to Switch Portyanki for Socks	4.0	1.05	87.0129381675944
+Justice Clarence Thomas Breaks His Silence  nytimes or the onion article? can't tell	Justice Thomas Breaks His Silence in Court	4.2	1.0476190476190477	86.87001654881901
+Wait, what?! - 'Universal background checks' defined	'Universal background check': What does it mean?	5.0	1.1	90.01429216187753
+NYTimes:Armstrong, a Confession Without Explanation-the most sophisticated, organized and professionalized? in history	For Armstrong, a Confession Without Explanation	4.0	1.2100840336134453	93.62494358357154
+#Cosmos Unveil Plan for #Soccer Stadium Near #BelmontPark  #NYS #NY #LongIsland #EconDev	Cosmos Unveil Plan for Soccer Stadium Near Belmont Park	4.4	0.9824561403508771	81.90160974875884
+How an all-American hero fell to earth - . (Where have all the REAL heroes gone?)	How all-American hero fell to earth	4.2	1.425438596491228	96.65638633970212
+North Korea Turns Its Ire on the South  #North #South #Korea #UN #sanctions #war #R2PH	North Korea Turns Its Ire on South Korea	4.6	1.1931818181818181	93.17361215585979
+Although Truth is a the higher standard...: Readers sue Lance Armstrong for book refund after doping admission	Readers sue Armstrong for book refund	4.2	1.425438596491228	96.65638633970212
+setting the bar, good move! "Wal-Mart Plans to Hire Any Veteran Who Wants a Job"	Wal-Mart to Announce Extensive Plan to Hire Veterans	4.0	1.5098684210526316	97.18293967203249
+Which country has most economic freedom?  #economy #economics	Country with freest economy is...	4.6	1.1590909090909092	92.19196630058673
+Finally a little RESPECT for Vets! Wal-Mart Plans to Hire Any Veteran Who Wants a Job	Wal-Mart to Announce Extensive Plan to Hire Veterans	4.0	1.3786764705882353	96.24642695953061
+Saudis Monsters try to defend Sri Lankan maid's execution  #p2 #tcot	Saudis defend maid's beheading	4.0	1.3571428571428572	96.04708891229126
+All from a kid starting an online petition. NYTimes: PepsiCo Will Halt Use of Additive in Gatorade	Gatorade Listens to a Teen And Changes Its Formula	4.2	1.5555555555555556	97.50263276666165
+Go #Obama. Obama Calls for Broad Action on Guns	Obama to Ask Congress to Toughen Gun Laws	4.2	1.0795454545454546	88.64149240258763
+Is #Pakistan becoming "#SouthAsia's #Dreamliner"? - Official refuses order to arrest Prime Minister Ashraf	Pakistani Official Refuses Order to Arrest Prime Minister	4.2	1.2083333333333333	93.50834963141267
+"Vine is Twitter's attempt to be the Instagram of Video," Form a nerdier sentence. Don't try! Its Impossible!	Vine is Twitter's attempt to become the 'Instagram of video'	4.0	1.0961538461538463	89.75853768617421
+NYTimes: #Queens #School Is Locked Down After #Gun Is Found in 7-Year-Old?s Backpack  is there no end?	Gun Found in 7-Year-Old?s Backpack at Queens School	4.0	1.2041666666666666	93.47073867910335
+Former Alaska Gov Sarah Palin is no long a commentator for Fox News	Fox News and Sarah Palin Part Ways	4.4	1.2087912087912087	93.55724386941478
+Good Read: Challenges for Women in India:	Challenges of being woman in India	4.2	0.9722222222222223	80.49496013239055
+"2012: The Year of Extreme #Weather" :  #ClimateChange #Drought #NationalClimateAssessment #GlobalChangeResearch	IHT Rendezvous: 2012: The Year of Extreme Weather	4.0	1.068421052631579	87.97953964194373
+Vodka is saving lives! Well, a puppy's life...	Booze saves puppy's life	4.2	1.275	94.97517677147586
+Senate holds key to fixing Washington -   thanks for that insight Ari #p2 #tcot	Senate key to fixing Washington	4.4	1.44375	96.69775838724236
+2#France: We're not the pacifists you think	Why France is not pacifist nation	4.2	1.1590909090909092	92.19196630058673
+Pray they'll stay together for the right reasons - Kobe Bryant, wife calling off divorce -	Kobe Bryant and wife call off divorce	4.2	1.2896825396825398	95.27606438995035
+Cool stuff: 6 trends we saw at CES 2013 -	6 trends from CES 2013	4.6	1.018181818181818	85.06469083797202
+U.S. steps up involvement in Mallpp#pppj##p#pl###p###p	U.S. steps up involvement in Mali	4.2	1.7142857142857142	98.22476305100045
+#BREAKING: #Police clash with #protesters calling for dissolution of #Pakistan's government -	Police, protesters clash in Pakistan	4.0	1.6666666666666667	98.06679705130134
+U ds boi ehn": Piers slams guest over AR-15s "	Piers, guest clash over AR-15s	4.2	1.125	91.00346020761246
+A Heroic Doctor Returns to Congo	Doctor Returns to Congo and Is Hailed as a Hero	4.4	1.0666666666666667	87.88927335640139
+NYT Most Emailed: Pentagon Set to Lift Ban on Women in Combat Roles: The groundbreaking decision overturns a 199...	Pentagon Lifting Ban on Women in Combat	4.4	1.5064935064935066	97.14908981495411
+lance armstrong quotes, pure gold	Lance's classic quotes	4.0	1.0416666666666667	86.57665112080637
+Parsing What Jodie Foster Did (and Didn't) Say  Gotta be honest: I had not idea what she was saying. #goldenglobes	The Carpetbagger: Parsing What Jodie Foster Did (and Didn't Say)	4.0	1.043956043956044	86.74590040619829
+#Wal-Mart Plans to Hire Any #Veteran Who Wants a #Job	Wal-Mart to Announce Extensive Plan to Hire Veterans	4.4	1.1105769230769231	90.27756882804273
+I think a bunch of UCI suits need to change their pants NYTimes: Armstrong Admits Doping, and Says He Will Testify	Armstrong Admits Doping, and Says He Will Testify Against Cycling Officials	4.0	1.0778985507246377	88.53618173612156
+": Voice of Charlie Brown arrested, charged. " Please tell me he said good grief...	Good grief! Charlie Brown actor charged	4.2	1.5639097744360901	97.5816157665112
+Florida's Burmese Python issue leads to snake killing contest. - ...	Florida tackling python problem with hunting contest	4.0	1.098901098901099	89.87889273356402
+Homicide Tracking Site Expanding to #Chicago  Love it. Great call & Congrats	Media Decoder Blog: Homicide Tracking Site Expanding to Chicago	4.4	1.0285714285714285	85.79434331277268
+Are you better off "playing for a tie" in #investing:	Strategies: In Investing, at Least, It Makes Sense to Play for a Tie	4.0	1.0714285714285714	88.24281630810893
+Don't know why I can't stop reading about him - A Data Crusader, a Defendant and Now, a Cause	Aaron Swartz, a Data Crusader and Now, a Cause	4.0	1.007905138339921	83.81224612607191
+HE Arts Beat Producer Says James Brown Biopic Is Finally a Go: The producers says he's gotten the rights from th...	ArtsBeat: James Brown Biopic Finally Gets Go Ahead	4.2	1.4513888888888888	96.75793591093726
+Not in my diet but hamburger eaters should be aware *Horsemeat found in hamburgers in Britain & Ireland -	Horsemeat found in hamburgers in Britain and Ireland	4.6	1.1375	91.59395215886866
+Got a flu shot? Exercising can make it work even better. from	Exercise Can Boost Flu Shot's Potency	4.2	1.3186813186813187	95.63336843688882
+"France Is Increasing Security at Sites in #Niger and at Home."  #Uranium #Mali	France Is Increasing Security at Uranium Sites in Niger	4.6	0.9824561403508771	81.90160974875884
+leave undone or leave out	fail to do something; leave something undone.	4.0	1.2444444444444445	94.29065743944636
+an address used for postal communication	the address where a person or organization can be communicated with.	4.6	1.375	96.21257710245223
+the controlling component of a grammatical constituent	(grammar) the word in a grammatical constituent that plays the same grammatical role as the whole constituent.	4.0	1.6392857142857142	97.89754776590944
+to cause to become quiet	become quiet or still; fall silent.	4.2	1.3	95.3663306754927
+feel anxious, concerned, uneasy, or apprehensive about	be afraid or feel anxious or apprehensive about a possible or probable situation or event.	4.0	1.05625	87.42665864299684
+separate (as if) by passing through a sieve	separate by passing through a sieve or other straining device to separate out coarser elements.	4.2	1.1375	91.59395215886866
+a computer program that performs system support	(computer science) a program designed for general support of the processes of a computer.	4.2	1.4117647058823528	96.53227019708139
+the length of time of a temporary cessation	a time interval during which there is a temporary cessation of something.	4.4	1.0096153846153846	83.9326011734617
+make amorous or sexual advances toward	approach with an offer of sexual favors.	4.2	1.0208333333333335	85.29787874228975
+state of being active, bustling about	the trait of being active; moving or acting rapidly and energetically.	4.6	1.098901098901099	89.87889273356402
+the manner in which something or someon functions or operates	process or manner of functioning or operating.	4.0	1.0125	84.26357755378366
+(cause to) become overloaded or overcharged	place too much a load on.	4.0	1.0714285714285714	88.24281630810893
+reshow a play or broadcast	rerun a performance of a play, for example.	4.8	1.2000000000000002	93.42560553633218
+come into conflict, meet in opposition	be incompatible; be or come into conflict.	4.4	1.1428571428571428	91.78576801564616
+lowest employee salary permitted by law	the lowest wage that an employer is allowed to pay; determined by contract or by law.	4.8	1.6666666666666667	98.06679705130134
+a single tall stone, e.g., obelisk or monument	a single great stone (often in the form of a column or obelisk).	4.4	0.975	81.14939070257259
+rightful portion or stake of something	(law) a right or legal share of something; a financial involvement with something.	4.2	1.5784313725490198	97.63427109974424
+scoop up, as if with a ladle	scoop up by plunging one's hand or a ladle below the surface.	4.0	0.9821428571428572	81.81886565367834
+completely use up a resource	use up the whole supply of.	4.8	1.0285714285714285	85.79434331277268
+assign to or arrange into categories	arrange or order by classes or categories.	4.4	1.0208333333333335	85.29787874228975
+line up or make parallel; bring into proper adjustment	place in a line or arrange so as to be parallel or straight.	4.6	1.1142857142857143	90.69881149390703
+build, make by combining materials or parts	put together out of artificial or natural components or parts.	4.0	0.9715909090909092	80.18278922822326
+state or explain the meaning	give a definition for the meaning of a word.	4.4	1.2000000000000002	93.42560553633218
+cause to assume a condition	put into a certain state; cause to be in a certain state.	4.0	1.4928571428571429	97.02121257710245
+the inclusion of all members of mathematical sets	a set containing all and only the members of two or more given sets.	4.25	1.0541666666666667	87.24612607191214
+a person who takes pictures, often a professional	someone who takes photographs professionally.	4.2	0.9722222222222223	80.49496013239055
+perform or supervise a ritual	perform (a church sacrament) ritually.	4.2	1.1375	91.59395215886866
+a functioning unit of a larger political organization, a cadre	a small unit serving as part of or as the nucleus of a larger political movement.	4.4	0.9732620320855615	80.7883255604032
+regard with consideration or respect	regard or treat with consideration, respect, and esteem.	4.6	1.018181818181818	85.06469083797202
+a fixed entrance fee to a club or venue	a fixed charge by a restaurant or nightclub over and above the charge for food and drink.	4.2	1.25	94.57650067699714
+keep something intact, maintain unchanged condition	keep in safety and protect from harm, decay, loss, or destruction.	4.2	1.361904761904762	96.11854972167896
+repeat; reestablish or begin again	reestablish on a new, usually improved, basis or make new or like new.	4.25	1.71875	98.2548518128479
+Break open or apart suddenly and forcefully; separate or cause to separate; go to pieces.	separate or cause to separate abruptly.	4.4	1.1904761904761905	93.10591244170303
+provide, raise, or supply funds to	obtain or provide money for.	4.4	1.1666666666666665	92.43643749059726
+an official with responsibility to supervise some domain of social activity	an official responsible for control and supervision of a particular activity or area of public interest.	4.2	1.0481283422459893	86.89634421543553
+Remove feathers, pits, shells, skin, husks	remove shells or husks from.	4.2	1.0666666666666667	87.88927335640139
+Sometimes I fantasize about having power.	Sometimes I, too, fantasise about bending people before my demented will.	4.2	1.0714285714285714	88.24281630810893
+Vehicles ablaze in collapsed Japan tunnel	Vehicles 'left burning' as smoke emits from Japan tunnel	4.2	1.0303030303030303	86.01248683616669
+David Beckham to retire at end of season	David Beckham Retires From Football	4.2	0.975	81.14939070257259
+Andy Murray deserves knighthood, David Cameron says	David Cameron: Andy Murray deserves a knighthood	5.0	1.0	82.83436136602978
+More than 1,000 inmates escape from Libya's al-Kweifiya prison	1000 prisoners escape from Libyan jail	4.4	1.0666666666666667	87.88927335640139
+Egypt Crackdown Draws Condemnation	Egypt: Egypt crackdown sparks global outrage	4.6	0.9821428571428572	81.81886565367834
+Former Zambian president arrested	Zambia's ex-President Rupiah Banda arrested	4.0	1.0416666666666667	86.57665112080637
+These subproblems are not, however, independent.	It is similar to divide and conquer, however is differentiated as its subproblems are not independent.	4.0	1.1666666666666667	92.58688129983452
+The most popular is tf-idf weighting.	One of the best known schemes is tf-idf (term frequency-inverse document frequency) weighting.	4.0	1.1294642857142856	91.27049796900857
+The differing application has a direct influence on what the definition of the term means.	The definition of term is dependent on the application.	4.0	0.975	81.14939070257259
+Ukrainian parliament dismisses president	Ukraine's parliament votes to dismiss president	4.0	0.9821428571428572	81.81886565367834
+PSNI failed RUC officers, tribunal told	13:23 PSNI 'failed RUC officer families'	4.0	1.0158730158730158	84.68858131487889
+Syria's PM escapes assassination try, regime says	Syrian prime minister survives assassination attempt	4.0	1.1111111111111112	90.4543403038965
+South Korean soldier reportedly flees after killing 5 comrades at border with North Korea	South Korean Soldier Kills Comrades And Flees	4.0	1.0714285714285714	88.24281630810893
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We preserve unanimity in the Council and thus a latent incapacity to act.	4.0	1.0545112781954886	87.28749811945238
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain the unanimity in the Council and therefore a latent capacity to act.	4.25	1.0736842105263158	88.44591545057921
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We have the unanimity in the Council and therefore a covert inability to act.	4.25	1.0736842105263158	88.44591545057921
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We preserve the unanimity to the Counsel and therefore a latent inability to act.	4.25	1.0140350877192983	84.44411012486836
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in Council and therefore a latent inability to act.	4.5	1.1012145748987854	90.13464720926734
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We keep unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We keep unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+There must be a balance as a whole.	The whole must be balanced.	4.25	0.9722222222222223	80.49496013239055
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We preserve the unanimity at the Council and thus a latent incapacity to act.	4.0	1.0736842105263158	88.44591545057921
+Consumers will lose out, employees will lose out, Europe will lose competitive strength and growth.	Users are the losers, with workers and European competitiveness and innovation régresseront.	4.25	1.0158730158730158	84.68858131487889
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We keep unanimity in Council and therefore a latent incapacity to act.	4.25	1.0364372469635628	86.30961335941026
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We preserve the unanimity to the Advice and therefore a latent inability to act.	4.0	1.0140350877192983	84.44411012486836
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4.167	1.1165413533834587	90.76275011283286
+A man is smoking.	The man sat in his suit and smoked.	4.0	1.0888888888888888	89.27335640138408
+Sovereign's shares lost 74 cents, or 4.5%, to $15.68.	Sovereign shares closed on the New York Stock Exchange at $15.68, down 74 cents, or 4.5 percent.	4.0	0.9714285714285714	80.03234541898601
+CIA Director George Tenet said the two men were "defined by dedication and courage."	"[They] were defined by dedication and courage," said the CIA's director George Tenet.	4.25	0.9794117647058824	81.66089965397924
+His daughter, Nina Axelrod, told The Associated Press that he died in his sleep, apparently of heart failure.	Axelrod died in his sleep of heart failure, said his daughter, Nina Axelrod.	4.333	0.9715909090909092	80.18278922822326
+Fifty-seven senators, including 24 Republicans, have signed the letter.	Of those who signed the letter, 57 are senators, including 24 Republicans.	4.923	0.975	81.14939070257259
+BioReliance's stock closed down 2 cents yesterday at $47.98 per share.	Shares of BioReliance sold at $47.98 at the close of market yesterday, down 2 cents.	5.0	1.0158730158730158	84.68858131487889
+"Fewer than 10" FBI offices have conducted investigations involving visits to mosques, the Justice Department said.	In addition, the Justice Department said that the FBI has conducted ''fewer than 10'' investigations involving visits to mosques.	4.2	1.035	86.25319693094629
+As part of his deal, Mr. Delainey has agreed to cooperate in the continuing investigation.	Dave Delainey agreed to cooperate with federal prosecutors in exchange for the plea.	4.4	0.976890756302521	81.4389950353543
+A Europe for All	All Europe	4.667	1.125	91.00346020761246
+More than that, the divisions are reproduced at the local level.	Beyond the geographical division, divisions recur locally.	4.0	1.0341880341880343	86.20054159771325
+The People Versus Putin	Putin against people	4.5	1.1666666666666665	92.43643749059726
+Other ways are needed.	It is necessary to find other means.  	4.5	1.1375	91.59395215886866
+devote or adapt exclusively to an skill, study, or work	devote oneself to a special area of work.	4.0	0.9722222222222223	80.49496013239055
+either half of an archery bow	either of the two halves of a bow from handle to tip.	4.0	1.3397435897435896	95.83646757935911
+restrict or confine	place limits on (extent or access).	4.75	1.7777777777777777	98.39777343162329
+Bring back to life, return from the dead	cause to become alive again.	4.75	1.1111111111111112	90.4543403038965
+determine a standard; estimate a capacity or measurement	estimate the value of.	4.25	1.2444444444444445	94.29065743944636
+festive social event, celebration	an occasion on which people can assemble for social interaction and entertainment.	4.25	1.6615384615384614	97.9539641943734
+Signal (approval or interest) by winking; briefly shut one eye.	signal by winking.	4.25	1.6071428571428572	97.73958176621032
+social ranking or position	the relative position or standing of things or especially persons in a society.	4.0	2.0892857142857144	98.92056566872273
+persuade or achieve acceptance	persuade somebody to accept something.	4.333	1.0416666666666667	86.57665112080637
+physically inflate	become inflated.	4.75	1.25	94.57650067699714
+an electrical connection between conductor and earth	a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage).	4.25	2.1587301587301586	99.02963743041974
+an agent's act of terminating an activity or event	the act of ending something.	4.0	1.0666666666666667	87.88927335640139
+notable or famous persons (real or fictional)	a well-known or notable person.	4.5	1.25	94.57650067699714
+to engage in plotting or activities of an illegal or deceitful nature	act in unison or agreement and in secret towards a deceitful or illegal purpose.	4.25	0.975	81.14939070257259
+a standardized system of measurements for heaviness	a system of units used to express the weight of something.	4.0	1.130952380952381	91.3457198736272
+a concern or affair	some situation or event that is thought about.	4.5	1.4444444444444444	96.72408605385888
+facility for secure storage of things, often money	a facility where things can be deposited for storage or safekeeping.	4.0	1.0694444444444444	88.04347826086956
+head of a country	the chief executive of a republic.	4.5	0.9821428571428572	81.81886565367834
+fail or suffer failure	suffer failure, as in some enterprise.	4.0	1.5	97.08891229125922
+an abundance of something	the property of copious abundance.	4.0	1.0416666666666667	86.57665112080637
+a full stop, as a punctuation mark	a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations.	4.0	1.7690217391304348	98.37896795546864
+a relative loss in price, value	a loss entailed by giving up or selling something at less than its value.	4.0	1.361904761904762	96.11854972167896
+a written message of nonacceptance	a message refusing to accept something that is offered.	5.0	1.35	95.94177824582519
+a decorative container, often for holding flowers	an open jar of glass or porcelain used as an ornament or to hold flowers.	4.25	1.40625	96.48337595907928
+a sharp bladed instrument for shaving off hair	edge tool used in shaving.	4.0	1.0208333333333335	85.29787874228975
+keep away, prevent from happening, or not do something	refrain from doing something.	4.0	1.4545454545454546	96.79178576801564
+a judgement or opinion about something	a judgment of the qualities of something or somebody.	4.0	1.0666666666666667	87.88927335640139
+human legs, informal usage	informal terms for the leg.	4.0	1.1	90.01429216187753
+line up or make parallel; bring into proper adjustment	place in a line or arrange so as to be parallel or straight.	4.5	1.1142857142857143	90.69881149390703
+become master of, overcome, dominate	get on top of; deal with successfully.	4.0	1.0158730158730158	84.68858131487889
+twice the quantity or amount of something	a quantity that is twice as great as another.	4.0	1.2142857142857144	93.71144877388295
+to ignite or catch on fire	catch fire.	4.25	1.25	94.57650067699714
+beat (as if) with a whip or rod	strike as if by whipping.	4.0	1.0666666666666667	87.88927335640139
+the medical procedure of manually turning the uterus	manual turning of a fetus in the uterus (usually to aid delivery).	4.4	1.2458333333333333	94.4147735820671
+train, tutor or polish social behavior, taste, judgement	teach or refine to be discriminative in taste or judgment.	4.5	1.0	82.83436136602978
+emphasize; draw attention to; underline	draw a line or lines underneath to call attention to.	4.25	1.1688311688311688	92.68466977583873
+decide a specific time for an event	make a schedule; plan the time and place for events.	4.0	1.0178571428571428	84.95561907627501
+value a thing or course of action more highly than another	like better; value more highly.	4.75	1.051948051948052	87.17090416729351
+a state of confinement in a small space	the act of forcing yourself (or being forced) into or through a restricted space.	4.0	1.2867647058823528	95.19332029486986
+state or explain the meaning	give a definition for the meaning of a word.	4.0	1.2000000000000002	93.42560553633218
+be against, resist	act against or in opposition to.	4.5	1.1785714285714286	92.85768015646156
+a quantity of money added to a bank account	money deposited in a bank or some similar institution.	4.25	1.0555555555555556	87.38904769068753
+people assembled together in a rhythmic movement	a party of people assembled for dancing.	4.25	1.0714285714285714	88.24281630810893
+income collected as tax by a government	government income due to taxation.	4.75	1.0833333333333335	88.95742440198586
+a region allocated to hold something	the particular portion of space occupied by something.	4.5	1.1111111111111112	90.4543403038965
+to collect, acquire or gather	get or gather together.	4.75	1.1	90.01429216187753
+secondary public school, grades 9-12	a public secondary school usually including grades 9 through 12.	4.75	1.0303030303030303	86.01248683616669
+a loss of function	loss of ability to function normally.	4.25	0.9821428571428572	81.81886565367834
+a quantity that is an approximate calculation	an approximate calculation of quantity or degree or worth.	4.0	1.092857142857143	89.48397773431623
+marriage offer	an offer of marriage.	5.0	1.4	96.42695953061532
+burst into flames (telic)	start to burn or burst into flames.	4.25	1.0208333333333335	85.29787874228975
+mechanism that controls the water level in a section of canal	enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it.	4.0	1.5194805194805194	97.24687829095832
+a style and size of typeset	a specific size and style of type within a type family.	4.5	1.125	91.00346020761246
+demand, ask for, or take as one's due	demand as being one's due or property; assert one's right or title to.	4.0	0.9732620320855615	80.7883255604032
+idolize/show devotion to	show devotion to (a deity).	4.75	1.1375	91.59395215886866
+recover posession or get back again	get or find back; recover the use of.	4.25	1.2	93.29772829848052
+coat, cover, or treat the surface of	put a coat on; cover the surface of; furnish with a surface.	4.5	1.0666666666666667	87.88927335640139
+BASEBALL: strike out a batter	strike out (a batter), (of a pitcher).	4.0	1.3397435897435896	95.83646757935911
+the primary information-processing component of a computer, of a microprocessor chip	(computer science) the part of a computer (a microprocessor chip) that does most of the data processing.	4.75	1.0946969696969697	89.64194373401534
+consider again, usually with a view to changing	consider again (a bill) that had been voted upon before, with a view to altering it.	4.0	1.1277777777777778	91.16894839777343
+to hunt snipe	hunt or shoot snipe.	4.0	1.0666666666666667	87.88927335640139
+propagation of waves back from a surface	the phenomenon of a propagating wave (light or sound) being thrown back from a surface.	4.0	1.2896825396825398	95.27606438995035
+provide (a person or group) with power or authority	provide with power and authority.	4.5	1.0303030303030303	86.01248683616669
+put or store in a bottle	store (liquids or gases) in bottles.	4.25	0.9722222222222223	80.49496013239055
+make or become more acute or intense	make more intense, stronger, or more marked.	4.5	0.9714285714285714	80.03234541898601
+move along on wheels	move along on or as if on wheels or a wheeled vehicle.	4.25	1.4711538461538463	96.94975176771476
+leave out, omit, prevent from entering	prevent from entering; keep out.	4.5	1.0714285714285714	88.24281630810893
+Remove by rubbing	remove by or as if by rubbing or erasing.	4.667	1.5166666666666666	97.2318339100346
+make shine	make (a surface) shine.	4.333	1.6071428571428572	97.73958176621032
+a computer-generated visual image	an image that is generated by a computer.	5.0	1.625	97.82984805175268
+spend time in prison	spend time in prison or in a labor camp.	4.0	1.05	87.0129381675944
+hold, contain within	contain or hold; have within.	4.75	0.9821428571428572	81.81886565367834
+act of verbally informing	the act of informing by verbal report.	4.75	1.125	91.00346020761246
+forcefully request	request urgently and forcefully.	4.0	1.4	96.42695953061532
+take a digestion-aiding walk after a meal	take a walk for one's health or to aid digestion, as after a meal.	4.5	1.2100840336134453	93.62494358357154
+incite some act of insubordination	incite, move, or persuade to some act of lawlessness or insubordination.	4.0	1.2214285714285715	93.91454791635324
+beat or pound rapidly	cause to throb or beat rapidly.	4.0	0.9821428571428572	81.81886565367834
+the ability of computers to exchange digital information between them and make use of it	(computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).	4.0	1.1925925925925926	93.16232887016699
+express protest or dissent, raise an objection	express or raise an objection or protest or criticism or express dissent.	4.0	1.0096153846153846	83.9326011734617
+equip with a fuse	equip with a fuse; provide with a fuse.	4.25	1.05	87.0129381675944
+The neighborhood's cafes and restaurants were visited by the guests. What a happy wedding!	there was a large number of people at this community 's dining rooms and buffets from the attendees ; what merry nuptials they were !	4.2	1.1187782805429864	90.81164435083497
+suggesting that these potatoes possess a gene that resists particular antibiotic drugs , a number environmental organizations have come down upon the food safety authority of europe ' s gathering , nonetheless .	notwithstanding , the conclusion reported by the efsa is disapproved of by some green groups , and , they warned that this type of potatoes consisted of a gene which withstood the force of a certain kind of antibiotics .	4.2	1.0507575757575758	87.09192116744396
+Since the beginning of this campaign in April, thousands of women have been cautioned and hundreds of them have been arrested for not abiding by Sharia clothing rules.	hundreds of females were stopped for not adhering to the " legitimate " gown , as a result to the alert instructions given to thousands of them in the start of april 's campaign .	4.0	1.0388888888888888	86.34722431171957
+Gaza - from Ashraf Abu Al-Houl	gaza , written by ashraf aboul - houl :	4.8	0.9722222222222223	80.49496013239055
+The list of released prisoners included 6 women and 11 minors.	six ladies and eleven teenagers were among the acquited detainees 's listing .	4.6	1.005952380952381	83.69189107868212
+Could the TV be out of order?	is there a possibility that the telly is not working ?	4.6	1.0795454545454546	88.64149240258763
+Currently a group of Australian physicists are accelerating their work to realize everybody's wish.	scientists specializing in physics from australia , as a gang , are increasing their work , at this very moment , so everybody ' s dreams materialize .	4.4	1.1294642857142856	91.27049796900857
+at such times , respectable manners are needed , or rather , in your very being be thankfulness always !	nowadays , we in want of a a grateful attitude that is appreciated .	4.2	1.1535714285714285	92.06032796750414
+he also pointed out that to restrain inflation expectations , recently rates were increased by both the national bank of canada as well as uk 's central bank .	the central banks of both britain and canada have increased interest rates in order to control the expectations of currency inflation .	4.2	1.0242424242424244	85.5310666466075
+10 . the measure that protects one 's health the best is that you need to turn in and get up at a firm time ; sunset comes at a late hour and daybreak shows up at an early hour in summertime . there is more daylight .	no. 10 . the best measure for health care - - wake up and go to sleep at an established time : daytime is longer in summertime ; the sky becomes light early and becomes dark late .	4.4	0.9900575614861329	82.05205355799609
+A total of 11 people were taken to hospital for treatment due to minor injuries, said London Ambulance Service.	as alleged by london ambulance service , altogether , 11 individuals were treated for mild harms and were sent to the hospital .	4.6	1.0020703933747412	83.30825936512713
+dividends from the roughly 1,300,000 barrels of petroluem iraq sells every single day add up to 93 percent of iraq 's allowed expenditure .	daily , iraq vends around 1.3 mil . oil containers that equal to 93 percent out of the income of the budget of the central administration located in the city of baghdad .	4.2	1.0896969696969698	89.34857830600271
+concurrently , he stressed the weight of the cooperation of the member states ; next week , the security council is set to talk over the report of serge brammertz .	the study by serge brammertz is scheduled to be talked over the coming week by the united nations security council . at the same time , it emphasized the significance of collaborating with the nations that are members .	4.2	0.9842845326716294	81.93169851060628
+currently this school has no phd program ; an advisor to master 's candidates is the highest level i would be .	up to now they don 't provide ph.d programs yet , so i can just work as an adviser of a master student .	4.2	1.0017391304347827	83.2932149842034
+The melting of the ice bed started earlier than normal this season.	this season ' s icy layer liquefied unseasonably early .	4.2	1.0615384615384615	87.58086354746503
+altogether eleven people had been transported to the infirmary to treat minor injuries said london 's emergency services .	as alleged by london ambulance service , altogether , 11 individuals were treated for mild harms and were sent to the hospital .	4.6	1.0282608695652176	85.62885512261171
+9. Best cooling "equipment" - hand-held fan: Though the fan is already an "antique," its fitness effect is what any other modern cooling equipment cannot compare with.	number nine . the best tool for lowering your body temperature -- the fan , since although it 's " an old-fashioned item " , modern tools for cooling your body in the summer cannot compete with it , with regard to keeping you healthy .	4.2	0.9969604863221884	82.32285241462314
+throughout a presentation lasting greater than than an hour , nineteen shaolin athletes from china took turns getting onto the playing space and exhibiting their techniques .	the 19 chinese kongfu boys took turns performing on the stage , during the show which lasted more than one hour .	4.0	1.0723905723905724	88.42334887919363
+On the 17th, two Russian strategic bombers entered for a short period into British airspace. British RAF jetfighters urgently flew to intercept them.	during the 17th , 2 uk raf fighter planes promptly took to the air to intervene two tactical bombers from russia after they for a little while maneuvered near uk air space .	4.2	0.9970862470862472	82.330374605085
+Yi Jianlian was selected sixth overall in the draft by Milwaukee Bucks. But, he did not want to play basketball there. Recently, the matter was the talk of many people.	lately , some news which has prompted much animated discussion is the situation where yi jianlian was picked as the sixth overall pick by the milwaukee bucks but refused to play there	4.4	1.0169642857142858	84.88039717165638
+One step back, when the rookie contract expires in three or four years, he can certainly play basketball in other cities.	in addition , after 3 or 4 years yi jianlian will be perfectly able to go to some other city and play ball , when the rookie contract ends .	4.4	1.05	87.0129381675944
+Will industrial and commercial departments dare to be "supervised?"	would mechanical or business divisions endeavor have supervision ?	4.4	1.0694444444444444	88.04347826086956
+things about others, say them carefully;	we had better be cautious saying anything about other people ;	4.6	1.0795454545454546	88.64149240258763
+He says the establishment of a clean and honest administration is the lifeline of audit work.	to establish unsullied governance was the backbone of audit work , said he .	4.0	0.976890756302521	81.4389950353543
+Senior robs bank .. Only to return to jail.	a financial institution is robbed by an elderly man , solely to return to prison .	4.6	0.975	81.14939070257259
+conforming to what one of the earlier agreements by seoul and pyongyang said , throughout the twenty days after distributing the initial load of oil , the republic of korea are going to deliver a total quantity of fifty-thousand tons of fuel oil .	south korea will be receiving a total of 50 thousand tonnes of heavy oil fuel in a twenty-days , in pursuance to a previous pact between seoul and pyongyang , after the first oil delivery .	4.4	1.0606060606060606	87.53573040469385
+scientists specializing in physics from australia , as a gang , are increasing their work , at this very moment , so everybody ' s dreams materialize .	at this moment , a group of australian physicists are speeding up their work to make our wish come true .	4.4	1.0416666666666667	86.57665112080637
+Tokyo's Ginza Tanaka gold and jewelry company said that the hand-woven gold gown weighs 1.1 kilograms and is worth 30 million Japanese yen (about NT$8.06 million).	according to tanaka kikinzoku jewelry company at tokyo ginza , the handmade evening wears made of gold has a weight of 1.1 kg , with the price of 30 million jpy ( approximately eight million and sixty thousand new taiwan dollar ( ntd ) ) .	4.2	1.0067934782608696	83.72197984052956
+Speak of current things only after they have been accomplished.	issues for now : take care of them before speaking ;	4.0	1.0	82.83436136602978
+in order to supplant the worker law , we 're in fact evaluating the cooperative civic occupational law , dr. nazif said .	dr. nazif stated , " we certainly suggest a unified civil service law to replace the employees statute . "	4.0	1.0541666666666667	87.24612607191214
+Washington, 17.7.2007, (AFP), The American Foreign Ministry announced on Tuesday that Washington was ready to conduct new direct negotiations with Iran about the situation in Iraq.	( agence france-presse ) 7 - 17 - 2007 , city of washington d.c. - tuesday the department of state of the united states professed that washington is prepared to have additional face-to-face talks with the iranian government in regard to the conditions inside iraq .	4.0	0.9802989130434783	81.6909884158267
+Li Jinhua hopes to see "auditing organizations be audited" before leaving his post.	prior to li jinhua relinquishing office , li jinhua longs to observe that the financial records review assembly is audited .	4.4	0.9910714285714286	82.11599217692192
+revolutionists from korea and him bombed the hotel the delegates representing japan dwelt in , however . this rebellious undertaking prompted a press assault towards korea as well as china .	however , the severe act that revolutionists from north korea and he placed a bomb at the hotel in which japanese delegation lived made north korea and china become blamed by the media .	4.4	0.9867172675521821	81.9805927486084
+significant numbers of their forces were lost and also they forfeited the ability to surprise . nevertheless , they endured israel 's military 's power .	it has already resisted in its confrontation with israeli military force , on the other hand it lost a great deal of its strength as well as the element of surprise .	4.2	1.0044642857142856	83.57905822175418
+or does it result from an integrated endeavor ?	or should they be regarded as the outcome of attempts on the part of both sides ?	4.6	1.2745098039215685	94.94132691439748
+A 74-year-old homeless thief achieved his sole wish which was to go back to prison for the following five years.	reverting to jail for the next five years was the single desire for the wanderer robber who is 74 years-old , which he achieved .	4.8	1.0514285714285714	87.10696554836768
+in its latest statement the commission established that the individual called ahmed abu adas , who claimed credit for performing the targeted killing , hasn 't any affiliation whatsoever with the targeted murder of hariri .	ahmad abu adas , who professed responsibility for carrying out the assassination of al-hariri , was revealed to be not involved in that plan according to the newest report by the committee .	4.0	0.9746109746109746	80.95381375056417
+Will industrial and commercial departments dare to be "supervised?"	do the organs in charge of industry and commerce risk being " controlled " ?	4.4	1.05	87.0129381675944
+why does there need to be an abundance of chinese people in the location he goes with ?	for which reason will he exclusively have to go to a city in which there are a lot of chinese people ?	4.4	1.0101010101010102	84.01158417331126
+However, the rather extreme action he took together with Korean revolutionaries in blowing up the hotel where the Japanese delegation was staying turned China and Korea into the objects of public discussion.	revolutionists from korea and him bombed the hotel the delegates representing japan dwelt in , however . this rebellious undertaking prompted a press assault towards korea as well as china .	4.0	0.9867172675521821	81.9805927486084
+From calls to revive the Coptic era (Christian) to calls to revive the Pharaonic era. What a shame!	from calling for the revival of the coptic period to appealing for the reappearance of the ( pharaonic ) era . i just hope that things don 't get any worse .	4.4	1.0227272727272727	85.48217240860538
+throughout our land right here , societies ' worldwide clash has become a fact for all to observe .	what is occurring hither on our terrain , before the eyes of the world , is the worldwide clash of civilisations .	4.6	0.9808612440191387	81.72107717767413
+At the same time, he asserted the importance of the cooperation of member states. The Security Council is set to discuss Serge Brammertz's report next week.	the study by serge brammertz is scheduled to be talked over the coming week by the united nations security council . at the same time , it emphasized the significance of collaborating with the nations that are members .	4.2	1.0025641025641026	83.36091469836016
+This new strain of genetically modified potatoes has been developed by BASF Group, a giant German chemicals company.	basf corporation , a renowned chemical company from germany , has done the research and developed these new genetically engineered potatoes .	4.4	1.0022727272727274	83.33834812697458
+Do prosecuting authorities dare to be "prosecuted? "	would those who bring suit against others venture to be charged in court ?	4.8	1.0285714285714285	85.79434331277268
+The Paris Peace Conference finally refused China's just demand and decided that Japan would inherit Germany's privileges in the Jiaodong Peninsula.	in the end , china 's fair petition was declined by the paris peace conference , and the conference made a decision that germany 's special privileges in jiaodong peninsular was transferred to japan .	4.2	1.0647522522522523	87.76139611854973
+It would only be as a masters degree advisor. They still don't offer doctorate degrees.	up to now they don 't provide ph.d programs yet , so i can just work as an adviser of a master student .	4.0	1.1466666666666665	91.98134496765458
+at that , instantly i roared . what could you engage in with 10000.0 chinese yuan ?	i laughed when i heard his words . " what could you do with only 10,000 yuan ( chinese dollars ) ? " i asked .	4.8	0.9728506787330318	80.71310365578456
+is there a possibility that the telly is not working ?	has the tv been ruined ?	4.2	1.1590909090909092	92.19196630058673
+prior to li jinhua relinquishing office , li jinhua longs to observe that the financial records review assembly is audited .	li jin-hua wished that he would observe " agencies in charge of auditing are examined " before he resigned his job .	4.0	0.9772727272727273	81.47284489243268
+the team of religious law enforcement officers was touched on in complaints over twenty times in two thousand six , the " al watan " news wrote .	al-watan declared that the devout police was the target of over 20 allegations in 2006 .	4.0	1.1785714285714286	92.85768015646156
+issues about others , discuss them cautiously ;	we had better be cautious saying anything about other people ;	4.6	1.0795454545454546	88.64149240258763
+things that are merry , mention them depending upon the situation ;	we had better choose a proper occasion to tell happy stories to others ;	4.4	1.005952380952381	83.69189107868212
+But having different viewpoints changes not a thing... and the best approach is often to take a different approach!	even so , the disparity in viewpoints doesn 't change a thing pertaining to the problem ; and , in all likelihood , to alter the direction is the right way !	4.2	1.051948051948052	87.17090416729351
+That ultimately speeds up the desertification of sub-Saharan African countries and other parts of the world.	it will speed up the progress of desertization of lands south of the sahara desert in africa and other domains worldwide at last , in this way .	4.2	1.0399159663865547	86.40740183541448
+It would only be as a masters degree advisor. They still don't offer doctorate degrees.	currently this school has no phd program ; an advisor to master 's candidates is the highest level i would be .	4.4	1.039855072463768	86.39235745449075
+The list of released prisoners included 6 women and 11 minors.	6 women in addition to 11 youngsters were listed on the account of freed detainees .	4.6	1.09375	89.61185497216789
+To subscribe to this service please add the following address to your Messenger list: albeta...@yahoo.com	add this address to your messenger menu please , albeta * * @ yahoo.com to be part of in this service .	4.8	0.9808612440191387	81.72107717767413
+even so , the disparity in viewpoints doesn 't change a thing pertaining to the problem ; and , in all likelihood , to alter the direction is the right way !	but the situation is not modified by the difference in view ... and often the preferred way is to alter the approach !	4.2	0.9960474308300395	82.31533022416127
+he encouraged others grasp the energy of thankfulness and exciting nature of reciprocation .	he made people understand the power of gratefulness as well as the feeling of being touched by how people repay others for their kindness .	4.4	1.1142857142857143	90.69881149390703
+The survey responded to all these questions.	every single one of those inquiries were given a reply by the study .	4.75	1.2767857142857144	95.02783210470889
+Otherwise, even given more opportunities, you can still lose them.	on the other hand , you will let opportunities slip away , despite the fact that you 've got many .	4.6	1.0402097902097902	86.41492402587633
+Al-Watan newspaper said that the religious police had been the subject of over twenty complaints in the year 2006.	the team of religious law enforcement officers was touched on in complaints over twenty times in two thousand six , the " al watan " news wrote .	4.2	0.9857142857142857	81.94674289153001
+it pointed out that its managing those satellite channels on a profit-oriented basis as long as accepted terms and conditions are not ignored by those operating channels .	it high lighted that long as channels , which are carried by satellite , do not violate the terms and regulations of the well-known transmission , they 'll be treated on a commercial basis .	4.2	0.9841269841269842	81.92417632014443
+The global clash of civilizations is going on right here on our soil before the eyes of the world.	throughout our land right here , societies ' worldwide clash has become a fact for all to observe .	4.6	0.975	81.14939070257259
+ww1 lasted for 4 years and ultimately ceased in the year nineteen eighteen .	in the year of 1918 , the wwi , which lasted for four years , ended .	4.6	1.042016806722689	86.70452835865804
+The Drunken Boxing, Drunken Sword, Taichi Boxing, and Mei Boxing entranced the whole audience; the Hard Qigong caused foreigners to exclaim with admiration over the hard head "arhat" molded by Chinese martial arts;	hard qigong contributed the visitors constant surprises at the the indestructible heroes that chinese martial arts created . a variety of chinese martial arts , including drunken fist , drunk sword , the martial art of tai-ji , and plum flower fist in awe the audience as a whole .	4.0	1.08	88.72423649766812
+Speak of current things only after they have been accomplished.	for things that are waiting to be dealt with at the moment , we had better do them before telling other people ;	4.0	1.5454545454545454	97.41612757635023
+1. Best seasoning - edible vinegar: Helps you relieve tiredness and is very good in inhibiting bacteria.	1. the top condiment -- vinegar : it will assist you to diminish fatigue , also , it has particularly strong power of controlling the bacterium .	4.8	1.0444444444444443	86.75718369189107
+al-qaeda related that the mujahideen have returned unmolested , with no serious injury to their members .	the mujahideen came back safely with no injuries mentioned among them , as declared by al qaeda .	4.8	0.9722222222222222	80.26553332330374
+he emailed his comrade just now inquiring about the cost .	he had sent that friend an email to ask him how much he was charged , just a moment ago .	4.2	1.316017316017316	95.59575748457951
+5. Best beverage-- Hot tea: Hot tea is far better than cold drinks in lowering temperature. It is one of the best summer heat-relieving drinks.	number five - best beverage , heated tea . beverages that are frigid ' abilities to cool down are outpaced markedly by those of boiling tea ; there are no peers among drinks which assuage summer calidity .	4.2	1.0335753176043556	86.10651421693997
+a feeling or state of contentment, relief	a state of being relaxed and feeling no pain.	4.0	1.0125	84.26357755378366
+printed version of electronic data from a computer	(computer science) matter that is held in a computer and is typed or printed on paper.	4.2	1.5098684210526316	97.18293967203249
+an upward slope or incline	an upward slope or grade (as in a road).	4.0	1.1333333333333333	91.44726944486234
+Identify, establish location or identity	recognize as being; establish the identity of someone or something.	4.4	1.25	94.57650067699714
+(cause to) become even or level	make even or more even.	4.4	1.0208333333333335	85.29787874228975
+a retail store with merchandise for sale	a mercantile establishment for the retail sale of goods or services.	4.2	1.130952380952381	91.3457198736272
+the reduction of the extent of something, e.g, its size, importance or quantity	change toward something smaller or lower.	4.4	1.5401785714285714	97.36723333834813
+accept, acclimate or adapt to a context, situation	adapt or conform oneself to new or different conditions.	4.6	1.0	82.83436136602978
+design for a specific purpose	plan something for a specific role or purpose or effect.	4.2	1.018181818181818	85.06469083797202
+a mental grasp or understanding of something	understanding of the nature or meaning or quality or magnitude of something.	4.2	1.098901098901099	89.87889273356402
+an address used for postal communication	the address where a person or organization can be communicated with.	4.0	1.375	96.21257710245223
+(Cause to) change from a solid to a liquid.	become liquid or fluid when heated.	4.0	1.244047619047619	94.1627802015947
+(cause to) break up or cease to function	stop functioning or cohering as a unit.	4.0	1.125	91.00346020761246
+move or sway in a sinuous fashion	to move or cause to move in a sinuous, spiral, or circular course.	4.4	1.1294642857142856	91.27049796900857
+while in motion, an impactor makes sudden, forcible contact with the impactee, or two impactors both move, mutually making forcible contact.	hit against; come into sudden contact with;	4.0	1.72008547008547	98.26237400330976
+Sarkozy announces re-election bid	France's Nicolas Sarkozy makes his reelection bid official	4.2	1.2638888888888888	94.8247329622386
+'Arrest warrant' for Maldives ex-president	Maldives court issues arrest warrant for former president	4.5	1.0208333333333335	85.29787874228975
+US Election: Mitt Romney concedes defeat as Barack Obama wins second term	Romney concedes election to Obama in phone call	4.0	1.0096153846153846	83.9326011734617

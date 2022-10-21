@@ -1,0 +1,250 @@
+Un perro está con un juguete.	Un perro tiene un juguete.	4.800000
+Los niños acarician un conejito.	Los niños acarician un perro.	2.200000
+La gente cocina en la parrilla.	Los peatones miran con asombro mientras dos personas cocinan pechuga en una parrilla.	0.800000
+El hombre construye un pequeño castillo de arena	Una muchacha está construyendo un castillo de arena.	2.200000
+Un hombre está corriendo detrás de un trineo tirado por cuatro perros.	Un hombre siendo tirado en un trineo por perros.	3.600000
+Una persona haciendo rapel.	Una persona esta haciendo rapel	5.000000
+La gente está esperando piezas de autos.	La gente está esperando por el auto.	1.200000
+El hombre está emocionado, ya que esta es su primera presentación para su nueva empresa.	Un hombre está tocando un instrumento que él creó por dinero en la calle.	0.400000
+Una muchacha en un vestido rosado está parada de cabeza.	Una mujer de rosado está cubriendo su rostro con una bufanda.	0.400000
+Un hombre está apilando grupos de rocas junto al mar.	La banda está tocando dentro de un pequeño club nocturno.	0.400000
+Un hombre vestido sólo con una toalla está de pie fuera cerca del agua.	Un hombre se está sentando delante de una fuente de agua	1.400000
+El libro que se lee es Harry Potter	El hombre está leyendo un libro de Harry Potter.	4.400000
+Hombre con traje escocés tocando la gaita en un día lluvioso en la acera.	Dos niñas balanceándose de lado a lado en un parque en un día cálido.	0.400000
+Ciclista en un bosque cubierto de nieve en la noche	El esquiador está cerca del suelo cubierto de nieve.	1.200000
+Un hombre toma la foto de una muchacha y ella está cerca del agua.	Una muchacha se está exhibiendo delante de su amigo.	1.000000
+Una dama está cantando	Una dama cantando.	5.000000
+El hombre es un artista callejero y tiene gente viendo sus trucos	Un joven surfea una gran ola mientras que otros están quietos en el fondo.	1.000000
+Un capitán recibiendo un premio.	Después de una gran actuación, el hombre recibe una ovación de pie después de recibir un premio.	2.200000
+El hombre está montando un monociclo con un loro en su hombro	Una mujer está montando en su bicicleta con un casco puesto.	0.800000
+Un niño pequeño está sosteniendo un anillo de bodas.	Un niño pequeño en un traje sostiene el anillo para una boda.	4.600000
+Cada persona que se muestra está sosteniendo un cachorro.	Una persona está hablando.	0.400000
+La muchacha está disfrutando del día.	La mujer está celebrando Año Nuevo.	1.200000
+Un joven manifestante sostiene un letrero contra la guerra.	Una hombre saludando con la mano mientras da un discurso.	0.800000
+Una pareja está sentanda en el césped con sus pies cruzados, y se están besando.	El hombre y la mujer se alejan uno del otro.	0.600000
+El agua está muy caliente.	El agua de la piscina está muy fría.	1.000000
+Dos guitarristas a ambos lados de un escenario y un baterista detrás de una batería roja en el centro.	Una banda colocada en el escenario, con el guitarrista y el bajista delante	2.600000
+La gente está a punto de comprar una pintura en una feria.	Un par de personas en un museo mirando en la tienda de regalos, potencialmente va a comprar algo.	1.600000
+Un grupo de niñas que llevan pañuelos en la cabeza posan para una foto grupal.	Una niña con un paraguas rojo y pintura de la cara de pie junto a otras chicas.	0.800000
+Un desfile en el cual hay una mujer vestida de blanco sobre zancos.	Hay una muchacha en un vestido rojo de pie en el muelle.	0.200000
+un chico joven canta a una bola de baseball fuera del campo de golf	Un hombre y un niño están jugando en el agua.	0.600000
+Una mujer sientiéndose asustada en un caballo en una montaña cubierta de nieve	Una niña sentada en la nieve	0.200000
+Dos hombres en trajes rojos practicando artes marciales.	Dos hombre en uniformes de artes marciales entrenando.	4.000000
+La gente está de pie en público.	La gente está en público.	4.000000
+Una patinadora en una sudadera negra con capucha ejecutando un estupendo rail grind en su patineta.	Una patinadora en una sudadera blanca con capucha ejecutando un estupendo rail grind en su patineta.	3.600000
+Una muchacha con pantalón rosado jugando en el suelo.	Un niño con pantalón azul juega en el suelo	2.600000
+Juego nocturno en la pequeña liga	Jugadores de fútbol en el día del juego.	1.200000
+Una mujer de rosado está sosteniendo a su hija.	Una mujer está caminando con su hija.	2.600000
+La gente está viendo un concierto de rap dentro del estadio yankee	La multitud se vuelve loca por la banda	1.200000
+Un hombre está viendo un pequeño televisor en la hornacina de un edificio rojo.	Un niño con un globo verde está de pie fuera de un edificio grande.	0.800000
+Padre e hijo que visten atuendos de vaqueros iguales está viendo un rodeo.	Un pequeño niño y su padre están usando camisas de cuadros azules y viendo un rodeo.	3.600000
+Un hombre está sosteniendo un letrero de publicidad.	Un hombre está sosteniendo un letrero para un restaurante.	3.800000
+La chaqueta está hecha de cuero	La chaqueta está hecha de cuero	5.000000
+Tres mujeres están de pie juntas.	Dos mujeres están de pie juntas.	3.200000
+Niña jugando con su muñeca	Una madre juega peekaboo con su bebé	1.000000
+Un hombre muestra alguna ropa mientras usa zapatos azules.	Un hombre y una mujer están usando sombreros de colores diferentes para su cita.	1.400000
+Tres mujeres tejiendo medias	Las mujeres están cosiendo y tejiendo mantas de bebé.	2.600000
+Una niño está dentro.	Una niño está dentro.	5.000000
+Una mujer en una camisa a rayas sube una montaña.	Un hombre en una chaqueta roja subiendo una montaña	2.200000
+Un hombre con un bigote toca el saxofón.	Un hombre con una barba toca la guitarra.	2.000000
+Un niño está conduciendo un pequeño auto de carreras.	Un niño está montando una bicicleta.	2.000000
+El hombre lanzó un palo.	El hombre lanza un palo.	4.400000
+El hombre viste un suéter azul y está descalzo en una cancha.	El hombre está de pie en una tienda vistiendo una camisa azul.	2.000000
+El reflejo de la anciana puede ser visto en un charco.	Una mujer está de pie en una multitud pero nadie puede verla porque ella es un fantasma.	0.600000
+Tres hombres conversando seriamente en Walmart.	Tres mujeres que se quedan por la noche.	0.400000
+Un aficionado está trando de atrapar una pelota en foul	Un hombre está paralelo en el aire, tratando de patear el balón de fútbol más allá del arquero.	0.400000
+Hay una pelota cerca del campo haciendo donde corren los jugadores	Los muchachos están afuera en un campo.	1.200000
+La mujer está vendiendo muñecas que parecen barbies.	El lindo bebé está jugando con un juguete.	0.000000
+Una mujer está llamando a su amiga.	Un hombre está llamando a su enamorada.	1.800000
+Un profesor de arte ayudando a un estudiante.	Un profesor ayuda a un estudiante en la clase de carpintería.	2.200000
+Un hombre está preparándose para correr una maratón.	Un hombre corriendo para un maratón.	3.200000
+Un desconocido está durmiendo en una galería de arte.	Una mujer está dentro de un museo de arte.	1.600000
+Personas teniendo una barbacoa	La gente está en casa cenando.	1.400000
+Un niño está abriendo la caja que contiene a su nuevo perrito.	Un hombre está haciendo un truco en un tablero.	0.000000
+Todos estaban corriendo	Él va rápido.	1.600000
+Una orquesta está afinando para un ensayo privado.	Una pequeña orquesta tocando para una audiencia.	2.600000
+Un perro juega en un campo.	Un perro jugando en un campo.	5.000000
+Un niño tranquiliza a un perro grande.	Un niño lanza algo para que un perro blanco lo atrape.	1.800000
+Dos hombres juegan cricket afuera.	Dos hombres juegan cricket.	4.400000
+Un hombre está operando maquinaria.	El hombre está operando una maquinaria.	4.800000
+El hombre está caminando con su bicicleta.	El hombre está caminando su bicicleta.	5.000000
+3 jugadores de baloncesto están tratando de ganar un juego	Dos equipos de jugadores de fútbol no comienzan un juego	0.200000
+Dos hombres están teniendo un día de descanso.	Cuatro hombres están teniendo una conversación.	0.000000
+Imagina mirando a un ciclista de maratón en su bicicleta, bajando por un pasillo de gente.	Un hombre está tratando de montar cuatro bicicletas al mismo tiempo.	1.000000
+El verano realmente es agradable.	Una pareja está disfrutando del buen día.	0.200000
+La gente deja caer las banderas.	La gente está cerca a la bandera.	1.200000
+Una multitud se prepara para un evento.	Una multitud está esperando que comience un evento.	4.600000
+El hombre compró solo	El hombre leyó solo afuera	0.600000
+Un pequeño perro lleva un lazo por la calle.	Un pequeño perro saltando en la calle.	1.800000
+Los empresarios están reunidos para discutir sus últimas iniciativas.	Dos hombres están discutiendo su reunión de negocios.	3.800000
+Un grupo de personas hablan mientras se acurrucan en la calle	Grupo de personas reunidas como en una reunión con comida delante de ellos.	2.400000
+Una mujer comparte su paraguas.	Un hombre y una mujer de la mano.	0.000000
+Una persona está subiendo un asta para asegurar la bandera mientras que la gente mira.	Una persona bajando de la montaña.	0.000000
+Un hombre esquivando adversarios con una bola de basquet mientras otro hombre observa	Un hombre de mediana edad está a punto de golpear una pelota de tenis con su raqueta.	0.800000
+Una mujer cosechando sus cultivos en un área pantanosa.	Una mujer usando una azada cerca de sus cultivos en una granja	3.600000
+Un hombre triste colocando material negro en la calle.	Un hombre colocando material negro en la calle.	4.000000
+Una serie de personas de pie cerca a una estatua de un toro.	Una estatua de oro de una hombre mientras que gente camina frente a un bar de restaurante.	1.400000
+Un hombre y su perro en la cima de una montaña.	Un hombre encima de un caballo.	1.200000
+Una niña llevando un vestido en una boda.	Una mujer llevando un vestido y un hombre llevando una camiseta sentados al lado del arte.	1.200000
+Un hombre en una bicicleta hace un backflip.	Alguien está haciendo un backflip en una bicicleta.	4.200000
+Un hombre corriendo en una corredora	Un hombre está caminando en una corredora	4.000000
+Él estaba cerca de un puente.	El anciano estaba cerca del fuego.	0.800000
+Personas ancianas ayudándonse los unos a los otros	El hombre está revisando sus acciones antes de hacer un comentario a las otras personas.	0.000000
+Un hombre está corriendo de prisa en la calle.	El hombre está manejando una bicicleta en la calle.	2.600000
+Los hombres están en huelga.	Los dos hombres están apagando el fuego.	0.000000
+Dos hombres observan una reacción química.	Un grupo de hombres está afuera con armas.	0.000000
+Una multitud está mirando a un hombre en el escenario.	Un hombre canta solo en el escenario para una multitud.	3.800000
+Un grupo está actuando para unos niños	Un grupo de niños miran a un grupo de adultos.	3.200000
+Dama en un top oscuro, falta con impresioes, medias rojas y zapatos caminando	Mujer caminando en la calle con tacones altos, leggins negros, abrigo negro y cartera roja	2.800000
+Una mujer está usando una red para pescar en el río.	Un pez está saltando fuera del agua para atrapar una mosca.	1.600000
+Puede haber una mujer bajo una imagen de Jesús.	Hay una persona en la fotografía.	1.600000
+La señora mayor está usando lentes de sol para proteger sus ojos del sol brillante.	Este hombre usa lentes de sol para mantener el sol fuera alejado de sus ojos	2.800000
+Una mujer a punto de comer pescado.	Una mujer a punto de comer trucha.	4.600000
+Un equipo de atletas jóvenes planea su gran victoria	Su equipo está ganando.	3.400000
+Un cable es más grande que el otro.	Un cable es más grande que el otro.	5.000000
+Un niño tiene un teléfono inteligente y nada más.	Un hombre puede tener un teléfono inteligente.	2.200000
+La gente está al aire libre en una montaña.	La gente está de pie alrededor de dos cuatrimotos en una playa.	0.800000
+Cuatro mujeres están en la piscina.	Las cuatro mujeres están en una piscina	5.000000
+Una niña está intentando esconderse de sus padres	Una muchacha joven tratando de esconderse de su mamá.	4.200000
+Dos hombres están en sus autos en tráfico pesado	Las dos personas están conduciendo camiones.	2.200000
+Dos hombres ubicados en una cabina de control.	Dos hombres de la misma rama militar están sentados en un bus.	1.200000
+El perro negro grande está detrás del perro negro pequeño.	El perro negro y blanco está persiguiendo un gato.	1.400000
+El perro está conduciendo un auto.	El hombre está conduciendo un auto azul.	1.600000
+Esta pequeña niña está emocionada por la boda	La pequeña niña está buscando algo raro.	1.400000
+El hombre viste un polo verde	El hombre viste una camisa de polo verde.	5.000000
+No hay color en la imagen.	Hay un letrero en esta imagen.	0.800000
+Un turista está usando los binoculares para ver el océano.	El perro está a punto de saltar al agua.	0.000000
+Un muchacho joven con un abrigo en su cabeza está sosteniendo su cabra.	Un muchacho joven haciéndose el tonto usa su abrigo en su cabeza y sostiene una cabra.	4.200000
+Una mujer trabaja en una fábrica de quesos.	Un hombre está en la cocina cocinando pan.	0.400000
+El hombre y las mujeres están trotando.	Hay hombres y mujeres caminando.	3.200000
+Un hombre en el interior leyendo el periódico.	Un hombre leyendo el periódico afuera.	3.000000
+Dos hombres se reúnen para almorzar para hablar de negocios.	Tres hombres discuten negocios durante el almuerzo.	3.600000
+Una joven mira hacia otro lado porque es tímida.	Un muchacho joven está a punto de pintar su cara.	0.800000
+Un grupo de cinco corredores se agachó frente a una gran multitud.	Dos hombres frente a una multitud.	1.800000
+El perro está usando un collarín.	El perro está usando un collarín rojo.	4.000000
+Una pareja está disfrutando una connovedora sesión en un sofá.	Una pareja está disfrutando una conmovedora sesión en un sofá viendo una película.	4.200000
+Cuatro personas están saltando en el aire.	La gente está saltando en el aire.	4.200000
+Un animal juega con un aro.	Un hombre africano no está haciendo un truco con un palo.	1.200000
+Los hombres condujeron	Dos hombres sentados cerca de sus bicicletas	1.000000
+Dos bomberos trabajan en el camión de bomberos.	Tres trabajadores están saliendo de su edificio en llamas durante un incendio.	1.000000
+El partido de voleibol está en curso entre las damas	Mujeres participando en las finales de la competencia de tenis	1.200000
+Una mujer con el pelo gris y un vestido blanco de pie delante de una pared.	Un hombre de pie delante de una pared azul con una camisa marrón y pantalones blancos.	2.000000
+En China, los trabajadores en el campo realizan sus tareas mientras se pone el sol.	Trabajadores en China realizan tareas mientras el sol se pone.	4.600000
+Un niño que termina su cono de helado hace una mueca para la cámara.	Una mujer con gafas está leyendo un lado de un tazón de metal	0.600000
+Una multitud está en un evento.	Una carrera se está realizando en un estadio.	2.800000
+Los trabajadores de la construcción están utilizando planos de planta específicos.	Los trabajadores de la construcción están utilizando herramientas para trabajar en el túnel.	2.000000
+Una joven muchacha que sostiene dos bastones para escalar está de pie sobre una roca en un arrollo.	Un hombre y una mujer están escalando en una montaña.	2.000000
+La gente está caminando a través de una estación.	Hay gente caminando en una calle muy concurrida.	1.800000
+Un hombre está en el escenario.	Este hombre está en un escenario	4.800000
+La mujer está cuidando al niño.	Un niño está corriendo hacia su madre.	2.400000
+Hay una persona de pie junto al edificio vistiendo un traje.	Un hombre en un traje negro sentado en los escalones de un edificio.	3.400000
+Un hombre camina en la ciudad.	Una mujer camina en la ciudad.	2.400000
+Un grupo de mujeres en una biblioteca con niños.	Un grupo de niños de la escuela está disfrutando del tiempo de cuentos.	1.800000
+Un jugador de hockey tira el disco.	Un jugador de hockey está jugando con un disco.	3.800000
+Pareja realizando un baile.	Jovencitas se presentan en un recital de baile.	1.800000
+Un excursionista en un sendero mirando la vida animal en una zona boscosa con un canguro negro.	Hombre trotando en un sendero, a través de un gran bosque.	1.600000
+La banda toca para un grupo de personas.	La banda se está presentando para un grupo de personas.	5.000000
+Un niño está en un viaje escolar en un huerto de calabazas.	Una pequeña niña está dibujando en una mesa cerca de un bebé.	0.000000
+La gente está en un partido de fútbol.	Algunas personas están en un partido de fútbol.	4.800000
+Algunos niños están leyendo silenciosamente.	Los niños están leyendo silencionamente.	5.000000
+Un pájaro vuela sobre el lago.	Una persona está caminando hacia el océano.	0.000000
+Los perros corrieron en sentido opuesto.	El hombre y el caballo están huyendo de la policía.	0.400000
+Un hombre monta su biclicleta por la calle.	Un hombre monta su bicicleta por la calle.	5.000000
+La pareja está comiendo.	La familia está comiendo fuera.	2.800000
+El vagón del tren está casi vacío.	Un auto está girando delante del bus que transporta pasajeros.	0.000000
+El perro está tomando un baño.	Un perro está tomando un baño.	5.000000
+Una mujer en una camisa rosada está de pie detrás de una mesa con muchos aderezos para ensaladas y platos de papel.	Una mujer se sienta junto a una mesa cubierta de platos y platillos.	2.600000
+Una persona está sin sombrero y está dentro.	Una mujer está sosteniendo una lata.	0.000000
+Los niños se ríen mientras se deslizan en la nieve.	El gato blanco es difícil de ver en la nieve mientras corre juguetonamente.	1.400000
+Dos hombres arreglan una bicicleta en un garaje.	Dos hombres arreglan un auto en un garaje.	3.400000
+Un caballo y un auto atraviesan el agua.	Un hombre va en bicicleta al agua.	1.000000
+El niño le está diciendo al hombre qué hacer.	La dama no está hablando con nadie.	0.200000
+Una persona está durmiendo en casa.	Una persona está durmiendo en casa.	4.800000
+La mujer está cargando a un niño y posando para una foto.	Un hombre está tomando una foto de una pareja y su hijo.	2.000000
+Un muchacho asiático y un hombre están de pie fuera de Starbucks.	Un niño asiático y una niña asiática están sonriendo en una multitud de personas.	1.400000
+Una multitud se reúne para un discurso importante.	Una audiencia está reunida para una actuación	3.400000
+Niños que giran en una rueda giratoria de cristal	Dos gatos parados en un charco, y uno tiene una pelota de tenis amarilla.	0.000000
+Un hombre envía un pedido de comida	Un hombre de negocios está esperando para pedir comida.	3.000000
+La banda se encuentra bajo los reflectores.	La banda no está en la foto.	1.600000
+La mujer y el hombre están trabajando en una granja.	Un hombre y una mujer están trabajando en un jardín.	3.600000
+El hombre mueve una mesa.	Un hombre guarda una mesa.	3.800000
+Un niño hace una oración ante una vela encendida.	Una anciana está soplando las velas en su torta de cumpleaños de tres niveles.	1.600000
+Dos niños asiáticos lindos y bien vestidos están de pie al lado de un árbol.	Dos niñas pequeñas están felices.	1.400000
+Un niño y un perro en un muelle están viendo otro perro nadar a la lejanía.	Un niño y un perro grande parados en un muelle que mira otro perro nadar en el agua.	3.400000
+Un conductor viste de azul	Una mujer está vistiendo una camisa azul y está montando una bicicleta.	2.600000
+El pequeño niño estaba en el parque.	Un niño estaba saliendo del parque.	3.000000
+Dos niños están en la playa.	Dos niñas están en la playa.	2.800000
+Dos muchachas visitando Nueva York.	Las dos muchachas que trabajan en el restaurante son nuevas.	1.600000
+Dos mujeres sentadas en un banco comiendo.	Cinco mujeres sentadas en un banco.	2.600000
+Fuera de una puerta un par de personas de pie	Dos personas de pie fuera de una puerta.	4.400000
+Tres hombres sacan algo de un tambor.	Dos niños juegan en una llanta columpio grande.	0.000000
+Un bartender está preparando bebidas para sus clientes.	La camarera le está dando a sus clientes bebidas gratis.	1.600000
+Múltiples personas hacen una danza sincronizada con saltos.	Ellos están en un evento de pista.	0.800000
+Los estudiantes están hablando en un debate sobre el control de armas.	Varias personas están haciendo cola en un mostrador.	0.000000
+Un hombre con una barba está pintando.	Un hombre con una barba pintando.	5.000000
+El hombre usa un traje verde	El hombre usa un traje azul.	3.000000
+Estas personas están caminando por un campo de malezas.	Estos dos niños y el perro están corriendo a través de un campo de hierba.	2.800000
+Un muchacho se pone en cuclillas delante de una red vacía con un castillo inflable detrás de él.	Un niño está en cuclillas frente a una red vacía, mientras que otros están de pie alrededor de un castillo inflable detrás de él.	3.400000
+Dos mujeres están sonriendo juntas.	Hay dos mujeres bailando.	2.600000
+Dos niños están en una caja de arena.	Los niños están en una caja de arena.	4.400000
+Un muchacho está montando patineta.	Hay un muchacho montanto patineta afuera.	4.400000
+Una anciana está cosiendo un suéter nuevo en su sala.	Una muchacha es un traje a rayas está de pie en la cocina de su madre, deseando que estuviera en casa.	0.000000
+Todos los niños pasar el rato en la sala de juegos	Algunas personas pasan el rato en el boliche.	1.400000
+Un grupo de niñas están jugando en un basurero.	Un grupo de niños están jugando en el agua.	1.600000
+Hay dos personas, una de ellas un marido y una su esposa, saliendo de la tienda.	Hay dos personas, un hombre y una mujer, sentadas en un bus	1.200000
+Groupe Air France prepara un tren para un viaje	Ellos toman un paseo en el globo de aire caliente sobre el atlántico	0.600000
+Algunos voluntarios ayudan a limpiar al lado de un metro.	Los trabajadores se ofrecen voluntariamente para limpiar el metro.	4.600000
+Una mujer ordeñando una vaca.	Una mujer empuja un carrito.	0.400000
+Un niño pequeño está tomandose de las manos con alguien.	La niña pequeña está tomandose de las manos con alguien.	3.800000
+La niña está caminando a la escuela en la lluvia.	La niña está jugando afuera en la nieve.	1.400000
+La gente de excursión a través de un paisaje helado y montañoso.	La gente está de excursión en una playa.	1.400000
+Gente alta durmiendo	Gente alta caminando	2.000000
+Una mujer está sentada mientras habla con un hombre sin camisa que acaba de conocer	Una mujer está sentada mientras habla con un hombre sin camisa.	4.400000
+Una pelea de hockey estalla.	Una pelea en un juego de hockey estalla	5.000000
+Hay un perro blanco y negro corriendo en un felpudo con un hombre en una camisa azul que mira.	Un perro está parado junto a un hombre en shorts y una camisa azul y blanca.	2.600000
+Hombres que se preparan para tomar un baño en el océano.	Un perro cubierto de nieve hasta su vientre intenta moverse.	0.000000
+Un mujer arrastra un Lobero irlandés	El soldado es una muchacha	0.000000
+La gente está en un bote.	Hay gente en un bote.	5.000000
+Una pequeña niña está jugando fuera.	Una pequeña niña está jugando fuera.	5.000000
+Un niño pequeño se quita toda su ropa.	Una mujer con una camisa azul apretada está de pie como si acabara de soltar algo de su mano.	0.000000
+Dos muchachos que tocan la guitarra con una mujer que canta y que toca una pandereta de pie al lado de ellos.	Dos muchachos que tocan la guitarra con una mujer de pie al lado de ellos.	3.600000
+El snowboarder realiza un truco.	El snowboarder realizó un truco.	5.000000
+Un grupo de personas está sentado en un bar.	Un grupo de personas está de pie en un bar.	4.000000
+Un grupo de varias personas sentadas en el piso dentro de un edificio	Un grupo de personas está sentado en una cornisa delante de un edificio.	2.600000
+Una mujer con los ojos vendados está de rodillas.	Cansada, la mujer descansa su cabeza en su mochila mientras está acostada.	0.800000
+Un hombre en una camiseta juega baloncesto.	Un hombre está en la camiseta deportiva asiste a un juego.	2.000000
+Señores mayores en una chaqueta verde y jeans azules sentados en una pequeña mesa.	Un hombre vistiendo una camisa azul y jeans azules enseñando en una escuela de madera.	1.600000
+Un hombre empujando rocas.	Un mujer está empujando rocas perezosamente.	2.200000
+El niño está usando una chaqueta azul y una camiseta rosada mientras juega afuera.	Un hombre en una camisa naranja y jeans azules está jugando con un hula hula	1.000000
+Un niño con un globo.	El beagle de una mujer tomando un bebida mientras camina	0.000000
+Un hombre joven en una camisa naranja toca la tuba.	Un hombre con una camisa toca los tambores.	1.400000
+Un pintor está pintando un mural al lado de una casa.	Un pintor está pintando una imagen vívida de un parque en el lado de una calle	1.600000
+Seis camiones blancos grandes se están moviendo.	Camiones naranjas grandes están viajando por una calle de cuatro carriles.	1.200000
+El hombre con pantalones amarillos está levantando sus brazos.	El hombre de la camisa amarilla tiene un trapeador en las manos.	0.600000
+Un pequeño niño cayó al suelo.	Una pequeña niña cayendo en la nieve mientras que otra observa.	0.600000
+Una persona del concurso de talentos que salta y canta.	Una audiencia está mirando a una pareja bailar.	0.600000
+Hay un perro marrón saltando en la playa.	Un perro negro y marrón está corriendo en la playa.	3.000000
+Un hombre camina delante de un edificio	Un hombre camina delante de un edificio.	5.000000
+Un hombre está durmiendo afuera.	Una mujer está durmiendo afuera.	3.000000
+Tres personas visten ropa moderna.	Dos personas visten uniformes de trabajo.	0.800000
+Hay un hombre con libros.	Hay un hombre escribiendo.	0.600000
+Asientos amarillos coloridos con una muchedumbre escasa alineada detrás de cuatro jugadores de fútbol que intentan perseguir una pelota.	Dos personas con anteojos están jugando un juego sentadas en el suelo.	0.000000
+Una multitud viendo a un hombre afuera	Una multitud está viendo a un hombre	3.600000
+Una mujer de pie junto a un microondas.	Una mujer al teléfono está sentada en una silla.	0.600000
+Una persona de rojo está saltando en un trampolín.	El hombre está saltando en un trampolín.	3.400000
+Cuatro niños están llorando	Tres niños están llorando	2.800000
+Una niña está cerca de un niño cuyo rostro no se muestra.	Un niño está muy cerca de una niña.	2.600000
+El tren es pequeño	El bote es pequeño.	1.200000
+Un hombre en una piscina sostiene a un niño sonriente en un flotador.	Un hombre está cargando a una niña en una piscina.	2.600000
+Un hombre mayor de beige de pie cerca de un hombre más joven de azul delante de un edificio.	Un hombre en una camisa blanca caminando delante de un edificio antiguo.	0.800000
+Dos mujeres están actuando.	Las dos mujeres están actuando.	5.000000
+Una persona en shorts brillantes trata de atrapar un frisbee	La mujer con la cámara está lanzando un Frisbee para que su perro marrón lo atrape.	2.400000
+El niño rubio se sentó junto a la guitarra y el libro.	La chica estaba jugando con Lincoln Logs.	0.400000
+Dos trabajadores de construcción se detienen en el centro comercial para el almuerzo	Los trabajadores de construcción son detenidos para el almuerzo.	4.200000
+Una pareja pinta en el suelo	Una mujer pinta en el suelo	2.600000
+Gimnasta rítmica hace una rutina.	Una niña realiza una rutina de gimnasia rítmica.	4.600000
+Un trabajador que usa una máscara y que lleva una escoba, de pie vigilando	Un hombre en una camisa azul lleva una bolsa sobre su hombro derecho.	2.000000
+Dos hombres, capas de vestir y bolsas de lona.	Dos niños en jeans azules y camisas de color canela están pie delate de las carpas.	0.400000
+Un ciclista de motocross haciendo una salto cruzado, usando equipo de protección.	Una mujer usando equipo de ciclismo negro y un casco blanco pedalea con fuerza cuesta arriba en su bicicleta.	2.400000
+Un hombre triste está sentado en los escalones de la puerta delante de una casa.	Una mujer está sentada en los escalones de la puerta delante de una casa.	3.400000
+La gente está caminando en una acera de la ciudad.	La gente está caminando por una acera de la ciudad.	4.600000

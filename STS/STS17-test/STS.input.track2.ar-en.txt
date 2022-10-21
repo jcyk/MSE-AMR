@@ -1,0 +1,250 @@
+two men are crying	رجلان يضحكان.	1.400000
+A tired businessman takes a quick nap while riding the train.	يجد رجل الوقت لأخذ غفوة في سيارته الكهربائية.	1.000000
+A man working on a light that has been broken for a week.	كان يوم عمل المرأة شاقا وهي ملتوية للأسفل .	0.200000
+A man is attempting to fix the air compressor.	رجل يستخدم خرطوما فائق القوة لإخماد الحريق .	0.400000
+a twelve year old girl eats chocolate ice cream	فتاة تأكل آيس كريم.	4.200000
+a man holds a pro Judea protest sign at a protest rally	رجل يحمل لافتة احتجاج	3.400000
+A woman holds a little boy wearing a blue sweatshirt.	امرأة تحمل طفلا مبتسما يرتدي قميصا أزرق.	4.400000
+A bike riding blond child.	الفتاة تركب دراجتها .	3.200000
+people are in the road	الناس بالقرب من الطريق	2.600000
+The windows are tall.	النوافذ مفتوحة.	1.600000
+A man is being chased by the police.	تعتقل الشرطة رجلا	3.000000
+A girl has binoculars	فتاة شابة تحمل كاميرا	1.600000
+Two people ride red bikes.	رجلان يقودان إلى آخر الطريق	1.400000
+Two people are standing next to each other wearing pink.	هناك ثلاثة رجال، اثنان منهما يرتديان قميصين أحمرين يثرثران معا	1.200000
+A black woman is buying donuts at the store.	المرأة تنظر إلى الشامبو في محل للبقالة.	1.400000
+The man works in the local market.	مجموعة من التجار يعملون في السوق.	3.000000
+A woman in red wears glasses and long earrings.	امرأة تلبس نظارات، وأقراطا كبيرة، وغطاء على رأسها.	3.600000
+Skateboarder in midair at a park.	رجل في الهواء الطلق حديقة تزلج.	4.000000
+a man working the kinks out of his old bones	الرجل يعمل بيده	1.400000
+A woman in a one-piece bathing suit with a man on a boardwalk on a foggy day.	رجل يرتدي بذلة وامرأة ترتدي ثوب زفاف يسيران على رصيف مبتلّ.	1.200000
+A man in a blue shirt helping a man in a red shirt fix a car.	رجل ذو قميص أزرق يساعد رجلا ذا قميص أحمر ليصلح مسار دراجة 	2.800000
+A girl kneels on the ground with her friend.	تفترش أم الأرض مع ابنها	2.400000
+The gymnast is a few feet off the ground.	شخص في الهواء مع الزلاجات على أقدامه.	0.600000
+Boy walks past man in orange overalls who is sweeping garbage from the street.	المرأة التي تحمل حقيبة سوداء تعبر الشارع.	0.800000
+Two men are trying to drink beer while tubing.	إمرأتان تحملان مشروبات وهما تسيران.	2.000000
+The man is riding a jet ski.	كلب يركب طائرة.	0.400000
+Girls are standing up.	الفتيات واقفات .	5.000000
+men sitting on their couch while eating bull	امرأتان تجلسان إلى طاولة ملابسهما تشبه الضفادع	0.000000
+A man is bending down in a park next to a woman on a bike.	رجل في كرسي متحرك يسير أسفل الرصيف	0.200000
+Two men on a platform	أربعة رجال على منصة.	2.800000
+The homeless man is alone in his box.	الرجل وحيدا في المنزل	1.200000
+A bunch of people gathered on a beach.	مجموعة من الناس على الشاطئ.	4.400000
+The girl is sitting and drinking water.	فتاة جالسة تشرب ماء .	4.600000
+A lady shows a guy a reptile while another child is in the background.	فتاة تلتقط صورة لفتاة أكبر سنا في حديقة واسعة	0.200000
+The people are not clapping.	الأشخاص كلهم عابسون.	2.000000
+Jockeys race the fast horses.	فارسان يتسابقان على الخيل.	3.200000
+They are playing with an antique set.	الرجال بجوار طاولة.	0.200000
+The people are in the water.	الناس في الماء.	5.000000
+A young man who looks Oriental is selling things.	تحب الفتاة الشابة حذاء ليس حذاءها.	0.200000
+A group of women practice yoga in the backyard of a yellow house.	مجموعة من الأشخاص يجلسون في ملابس السباحة على شاطئ في أوضاع اليوغا.	1.800000
+The boy is ready to take a swing at a ball using a bat.	صبي يستعد لإمساك كرة.	1.600000
+Four women wearing bicycle riding clothing sit on a bench.	رجلان يجلسان على العشب يرتديان خوذات الدراجات.	1.800000
+The man is taking a picture of the Empire State Building.	المرأة في الجيش.	0.000000
+The people are sleeping in the snow.	الناس في الثلج.	2.800000
+The insect is from Mars.	الحشرة تطير.	1.400000
+A group of people eating outdoors.	مجموعة من الناس يأكلون	3.600000
+A teenage pole vaulter is performing.	المتزلج ينفذ قفزة.	1.200000
+The girl is learning how to use a microscope.	امراة كبيرة فى السن تظهر كيفية استخدام طاولة الغسيل للقيام بالغسيل.	0.400000
+Two men dressed in white shirts button down shirts, white hats, with blue scarves tied around their necks	ثلاثة رجال يرتدون أقمصة حمراء وبيضاء مخططة، وسراويل بيضاء وقبعات سوداء يحملون أعلاما.	2.000000
+A man is that just purchased and put on a rainbow colored necklace and is very happy.	رجل وطفل على الرمل.	0.000000
+The young boys are brothers.	الولدان الصغيران شقيقان .	5.000000
+Two kids are in a field.	كلبان يعملان في حقل	1.600000
+There were only strawberries to eat at the baby shower.	الناس في حفل الوليد	2.400000
+There is a bear in the jewelry store.	المرأة في المتجر تبحث عن أشياء في المؤن	0.600000
+A man is holding a computer monitor.	رجل يعمل في نافذة.	0.400000
+the man is using a heat suit control the flame	رجل يستخدم موقد اللحام لإذابة البلاستيك.	0.800000
+Superman breaks down the sign so the group may pass	الثور يحاول إلقاء الرجل للخلف	0.000000
+The people are standing in line at the water slide.	مجموعة من الناس ينظرون عبر السور على الماء والأراضي المغطاة بالضباب.	1.400000
+A child is laying in a bed in a medical setting.	طفل في سرير.	3.400000
+A woman pops a bubble.	فتاة تنفخ فقاعة بواسطة عصا	1.400000
+The 2 drunk men are standing in the street getting ready for a fist fight.	الرجل ذو القميص الأحمر جالس في سيارته في انتظار المطر أن يتوقف	0.200000
+The dog is chasing a lizard.	الكلب يطارد شبحا.	2.200000
+A women and two children are walking between buildings in the rain with an umbrella.	امرأتان في حقل بلا مبان تحيط بهما.	0.600000
+A person asking for directions	شخص يسأل عن إرشاد.	5.000000
+The woman is trying to make the man get up.	زوجة السائح غاضبة من الرجل الذي لا يستطيع أن يُعمِل عقله.	0.800000
+Roller blade cops are talking.	قليل من الرجال يقومون بقفزة خلفية.	0.400000
+A tall human falling	إنسان طويل القامة قفز.	1.800000
+A Chinese farmer is working in a rice field	مزارع آسيوي يمشي في حقل أرز مع ثور.	3.400000
+A father rides a horse while his daughter stands nearby.	رجل يركب دراجة، تركب ابنته بجانبه.	1.400000
+The men try to show the coach what they're made of.	كلا الرجلين في عجلة من امرهما لانجاز المهمة.	1.000000
+a man smokes a cigarette.	امرأة تدخن سيجارة	2.800000
+A player catches the football in the end zone.	 لاعب كرة القدم يركض إلى المنطقة الأخيرة.	2.800000
+The band is performing on a stage.	الفرقة على خشبة المسرح.	4.800000
+The beam is firmly in place.	ثُبِّت مصباح الإنارة على الأرض.	1.000000
+The family gets a portrait taken	يلتقط الرجل صورة لصديقته.	1.800000
+A group of children are stretching.	توجد مجموعة من الأطفال في الخارج.	1.200000
+People walk by through a city juggling.	الناس يدخلون من خلال المدينة.	1.600000
+The man is walking by a mural.	رجل يسير من اللوحة.	3.400000
+A lone woman walks in the surf at the beach.	امرأة يمشي بين الأمواج على الشاطئ.	4.000000
+A man in a white shirt and a woman in a black shirt riding a motorcycle.	رجل يرتدي الجينز، وقميصا أحمر يركب دراجة نارية على الطريق السريع.	2.800000
+Two men are searching for canned goods	رجلان يبيعان الخضار.	1.000000
+A sharp looking man is cruising in the sunshine.	رجل يقدم حيلا على دراجة مرتفعا جدا في الهواء.	0.400000
+a boy steals an apple alone	رجل لديه لعبة شخص ما.	0.200000
+A woman is training to be an expert shot with a pistol.	رجل يستخدم كرسيا متحركا يتحدث في حقل لبضع نساء.	0.200000
+A mother is cutting fabric into squares for a quilt.	امرأة تقطع القماش.	4.000000
+The small boy is sleeping.	هناك صبي بالقرب من الأحذية.	0.400000
+woman goes grocery shopping	امرأة تسوق البقالة	4.600000
+the father plays catch with his son	يلعب أب وأبنائه كرة السلة.	2.600000
+A man cuts a melon.	رجل يقطع كعكة.	2.000000
+An asian woman with a microphone stands amongst a crowd of raised hands.	امرأة تقف في حشد من الناس في آسيا.	2.800000
+She is watching a movie inside.	رجل يجلس ويشاهد فيلم.	2.600000
+two black dogs on the beach	ثلاثة كلاب سوداء على الشاطئ.	3.400000
+The man's hands are full.	النساء يضعن أيديهن على رأس الرجل.	1.600000
+Humans in shirts.	الكلب والدجاج لهما نفس الألوان.	0.400000
+A woman is taking a break from reading her book.	امرأة شابة تأخذ صورة أثناء استراحة قصيرة من وظيفتها كنادلة.	0.800000
+The man is waiting on someone by the building.	رجل يقف إلى مبنى الانتظار لشخص ما.	4.800000
+A man is sleeping while the woman watches silently.	عجوز تنام عارية بمفردها.	1.600000
+A man plays piano with his shoes.	رجل يلعب الكمان مبتسما.	1.600000
+Two kids having a snowball fight.	فتاتان تتعاركان بالوسادة.	2.000000
+A girl is crying in the park.	رضيع يبكي في الحديقة.	3.000000
+The man is playing a round of golf.	أُحزِن الرجل في اللعبة.	2.000000
+A canine is in the field.	الرجل في الميدان.	1.800000
+A mountain biker jumps off of a fence while going downhill.	رجل متزلج انحدر انحدارا حادا.	1.000000
+A woman uses a high tech sewing machine to make a scarf	تستخدم امرأة ماكينة خياطة لصناعة الملابس.	3.600000
+Group of black men loading luggage onto the top of a bus	مجموعة من الرجال يقومون تحميل البضائع على الجزء الخلفي من السيارة.	3.800000
+An artist drawing.	فنان يرسم.	4.800000
+The people are not standing.	الناس كلهم واقفون.	1.800000
+Two guys are having lunch in a Chinese restaurant.	امرأتان تنتظران وجبة في أحد المطاعم.	1.800000
+A boy is putting his black socks and shoes on his feet.	صبي يقلع حذائه الأسود.	1.800000
+The man is standing next to a sheep.	رجل يقف بجانب كلب.	2.600000
+Young man in blue shirt peering through a large bubble.	رجل يرتدي قميصا أبيض ونظارات شمسية يحدق في الأفق.	1.400000
+A woman sits fanning herself	وقالت امرأة ذات الشعر الأحمر يجلس داخل	1.800000
+The blow-up figure is Karl Marx.	هناك لوحة لألبرت أينشتاين وهو على دب.	0.000000
+A male and female worker is whipping up a meal.	يقدم رجل الطعام لأنثى ترتدي لونا ورديا.	2.000000
+Workers are standing near the tracks.	عاملان في الشمس	2.600000
+Two kids wearing cold clothing look happily down through a tire swing for a picture.	طفلان يرتديان ملابس دافئة ينظران تحتهما بسعادة عبر إطارات الأرجوحة من أجل التقاط صورة.	3.800000
+people walking a standing in a city park.	أناس جالسون في حديقة عامة.	2.800000
+men sitting on steps with a dog	رجلان يتحدثان مع رجل آخر في الشرفة	1.600000
+Two men with long hair sit on sofas.	رجلان يرتديان قمصانا سوداء يضعان رجلا على رجل تحت أجهزة الكمبيوتر المحمولة الخاصة بهم على الأريكة.	3.000000
+two children riding horses in a rural setting while playing lacrosse	الفتيات يتجهن للمنزل.	0.800000
+A man tying his shoe at a beach.	رجل يأخذ استراحة مع كلبه في حديقة عامة.	1.000000
+Three people hang out on top of a big hill.	مجموعة من الرجال في الجزء الخلفي من سيارة نقل عل مرتفع عال	0.000000
+A car is driving in the mud.	الرجل في الشاحنة يقودها مبتعدا.	2.000000
+A little boy got his pants wet.	بلل الصبي سرواله.	4.000000
+A group of women yelling at a man.	رجلان يصرخان في امرأة في السوق.	1.600000
+the woman was driving fast	رجل و حيوانه في قارب سريع 	0.600000
+Two men chatting about a bank heist.	 مجموعة من الرجال متجمعون حول سيارة مكسورة بالأسفل .	0.800000
+The person is dead.	الشخص ميت.	5.000000
+a group of basketball players trying to get the ball from another player.	لاعب كرة سلة يحاول أخذ الكرة من آخر.	3.600000
+Two girls are reading books outside.	ثلاث فتيات تقرأن كتبا.	3.400000
+A boy in a black t-shirt gets ready to throw.	 طفل صغير يحصل على حصان أسود.	0.400000
+A snowboarder jumping high.	متزلج يقفز عاليا بينما هو على لوح التزلج .	4.200000
+Child playing with a hula hoop in his home	 طفل يلعب بهولا هوب.	4.400000
+The man is woman are in a relationship.	المرأة تتحدث.	0.000000
+An audience at a concert.	 ممثل على خشبة المسرح في حفل	1.800000
+the adults are inside	بالغين يجلسون في الداخل.	4.400000
+There is a group of young men playing instruments.	هناك مجموعة من الرجال يعزفون الموسيقى.	4.800000
+A baby is chewing on his fingers while wearing a cute blue striped outfit.	فتاة صغيرة ترتدي قميصا أحمر و سترة تنفخ فقاعة في عصا كبيرة.	0.000000
+There are only two athletes	بعض الرجال يركضون	0.600000
+The girl is a starving, homeless child in Africa, and missionaries have given her bread to eat.	رجل يقدم طعاما لطفل .	1.400000
+A man in a green shirt making a cup.	رجل بقميص أزرق يحمل كوبا .	2.200000
+An older woman had a cart full of groceries.	رجل يقود عربته المليئة بالمشتريات .	1.800000
+A man carrying steel beams across a lumberyard.	أثاث يقبع داخل شاحنة متحركة في منحدر.	0.000000
+The food the child is eating is sweet.	الصبي يأكل طعاما.	2.800000
+a player throwing a ball is tackled by another	لاعب يرمي كرة.	2.800000
+Black dog playing with toys	صبي صغير بتبان  قصير أحمر يضحك.	0.000000
+The elderly man is resting on his bicycle.	الرجل يجلس منتظرا دوره .	0.800000
+Man sitting at the end of a row of green chairs by some payphones.	أشخاص على كراسي قابلة للطي ينظرون من منحدر .	0.400000
+The people are doing the back stroke.	الناس يأخذون استراحة.	0.400000
+The woman is wearing a uniform	المرأة ترتدي قبعة.	2.200000
+The carpenter is taking a break.	 كان النجار يأخذ استراحة.	3.600000
+A baby in pink is held.	إمرأة بالوردي تعد طعاما لطفل بالأزرق يجلس تحت الطاولة.	0.800000
+Someone is dressed in clothing and putting her face in front of a talking tube.	 إمرأة بقميص أخضر وتحمل كاميرا و محاصرة من مجموعة من الناس.	1.200000
+A brown dog with a blue collar is running.	كلب بني يرتدي طوقا أزرق يجري على العشب.	4.200000
+Two dogs are playing in a yard.	كلبان في منتزه يلعبان .	3.200000
+A dog with a Frisbee in its mouth is running through snow.	كلب بني يجري في الثلج بطبق طائر في فمه.	4.200000
+Two women standing near the subway	هناك ثلاث نساء يقفن في محطة الحافلة.	2.000000
+This marketplace features multiple vendors selling fruits, vegetables, and other items.	 مركز سوق الفاكهة يعرض الخرشوف، والعديد من أنواع مختلفة من الفاكهة.	2.200000
+Man sleeps outside store	رجل ينام خارجا.	3.400000
+The man is racing down the mountain.	الرجل يتزلج أسفل الجبل.	3.400000
+Four Mormons walking along the beach.	شخصان يمشيان على طول الشاطئ.	2.000000
+A man in a black swimming suit is holding onto the edge of a in ground pool.	 إمرأة ببدلة سباحة تتمسك بحافة بركة السباحة.	3.600000
+The man is using a shopping cart.	رجل يسير عبر وول مارت مع عربة مليئة بالأشياء.	3.200000
+People walk beside a stone wall.	رجل يسير أسفل ممر من مجموعة من واجهات محلات تجارية.	1.400000
+A man play football in the park.	رجل يلعب كرة القدم في المنتزه.	3.600000
+Two young individuals are playing drummer boys using soda cans and drumsticks	طفلان يلعبان بالسكاكين.	0.600000
+A man is sleeping with a small dog.	رجل لديه كلب صغير.	2.200000
+The jeep crashes onto some rocks.	كثير من السيارات متوقفة على جبل.	0.400000
+A band performs on a sidewalk.	فرقة تعزف على الرصيف.	5.000000
+The boy had a black hat and red shirt on while skateboarding.	 ظهر صبي صغير يرتدي قميصا أزرق وقبعة حمراء.	1.800000
+The young man is jumping.	هناك ولد صغير يقفز.	3.800000
+A reader is telling the children a story	شخص يقرأ كتابا.	3.000000
+A man with a suit and a name tag is sitting outside, waiting to start a presentation.	 إمرأة ببدلة تتحدث إلى رجل على مقعد .	2.000000
+Boy laughs while playing in mud puddle.	صبي بلبس سباحة يصرخ في حين يجرى رشه بالماء.	0.800000
+a man examining plants	الرجل يزرع نباتات.	2.400000
+The children stole a bike	امرأة في بيكيني أبيض تقود دراجة هوائية، والناس يمشون ويقودون خلفها.	0.400000
+A man stops for a picture with the scenery during his hike.	رجل يأخذ صورة لمنظر لم يره من قبل.	2.400000
+Teenagers are swimming.	ثلاثة مراهقين يسبحون.	4.400000
+Man riding his bike in the street.	شاب يركب دراجته في الشارع.	4.400000
+A toddler in a frilly dress shows her joy.	امرأة ترتدي ثوبا ملونا تمشي.	0.400000
+The child in a jacket has a round toy.	امرأة تربط حذاء فتاة ترتدي الأرجواني.	0.000000
+A woman teaching a young girl not to be afraid of puppies.	امرأة تتحدث إلى الأطفال.	2.400000
+A man and child are riding an elephant.	امرأة وطفل يركبون دابة.	2.800000
+Three men are drinking apple juice while on the beach.	رجلان ببدلات يشربان القهوة على طاولات متقابلة.	0.800000
+A group of people.	مجموعة من ثلاثة أشخاص.	4.000000
+people in a house	يتحدث الناس خارج منزل.	0.400000
+The road is closed down.	الشمس تغرب.	0.000000
+Two people kissing.	شخصان لا يقبلان بعضهما.	1.400000
+A sad male is playing electric guitar while wearing a white hat.	رجل يلعب الغيتار الكهربائي مرتدياً قبعة بيضاء.	3.800000
+the beach is mainly isolated except for a few families and some rain	بعض الناس في غابة.	0.000000
+A black mother and five children in a rural area	رجل مع ولده على الخيل في مناطق ريفية زراعية.	2.000000
+A woman is assisting a runner by keeping rain off of her and giving her hydration.	امرأة تنتظر المطر مع مظلتها.	1.400000
+The person is making fabric.	هناك شخص مع قماش.	3.200000
+Woman in shorts and a t-shirt with seated men, watching someone perform.	المرأة تلبس سروالا قصيرا وقميصا قصير الأكمام تقف إلى جانب بعض الرجال الجالسين ويشاهدون العرض أو المتحدث.	4.200000
+Two adults swing high toward the camera at a playground park.	شخصان بالغان يتأرجحان في منطقة الألعاب .	4.000000
+A man is about to release a ball.	امرأة على وشك قذف كرة.	3.200000
+People from a bike race.	الناس في سباق الدراجات.	4.400000
+A young girl is throwing food to some ducks in a pond.	فتاة صغيرة تجري أثناء إطعام البط.	3.600000
+A person swimming underwater poses for a picture with some underwater vegetation.	رجل يقوم بوجه أبله تحت الماء في بركة أثناء السباحة.	4.000000
+The trees had a dog near them.	رجل في الخارج قريب من الماء	0.800000
+Two surfers are competing in the open water against each other.	كلبان بتسابقان مع بعضهم البعض في الماء.	1.000000
+A man in shorts, a sweatshirt, and sneakers is mowing the grass.	امرأة في قميص أخضر وسروال أسود تركض.	0.200000
+A woman is running on a lawn.	شخص في زي أبيض يجلس على دراجة.	0.200000
+City workers are helpful.	الناس تساعد في الخارج.	3.000000
+A snowboarder wearing a blue jacket and green pants running from an avalanche.	رجل يرتدي سترة زرقاء وسروال بني يسير مشياً على الأقدام إلى أعلى الجبل.	1.800000
+The two kids are fighting each other.	طفلان يتقاتلان مع بعضهم البعض.	4.800000
+A man is giving a speech and a woman is holding a cowboy hat.	رجل يتحدث إلى امرأة تحمل قبعة رعاة البقر.	3.400000
+Tall humans pushing	البشر طويلي القامة يشيرون	2.600000
+A boy holding a float.	صبي يحمل حبل.	2.400000
+Children listen to a teacher read a story.	الأطفال الضجرون يستمعون إلى أستاذة جذابة/أستاذ جذاب تقرأ القصة.	4.200000
+Someone is trying to trim the plants	عمال يفعلون شيئا ما لشجرة.	2.800000
+The old man is playing a banjo.	رجل يلعب البانجو في الخارج.	4.000000
+Nobody is wet	الرجل يتبلل.	1.400000
+The woman is playing a game inside.	رجل يلعب لعبة في الخارج.	2.200000
+A woman holds a baby on a boat.	رجل قبّل امرأة على متن قارب.	1.000000
+An ice skater practices	امرأة جذابة تتزلج على الجليد.	3.600000
+A group of people standing in a courtyard on a tour looking up at people out on balconies above.	مجموعة من الشباب يقفون على الرصيف في الليل.	2.200000
+A young girl.	فتاة صغيرة تحمل صبيا صغيرا.	2.400000
+The woman on the bike was riding fast.	رجل يركب دراجته ورأى شروق الشمس.	1.600000
+People are walking in a long hallway with blue walls.	العديد من النساء تمشي من خلال بناء قرميدي بعباءات باهية.	1.400000
+A girl braiding her hair.	امرأة تجدل شعرها.	3.000000
+The woman refused to look at the old camera.	المرأة تريد من الطفل أن ينظر إلى الكاميرا.	1.400000
+Man roller skates for a crowd to watch.	رجل يقوم بقفزات موتوكروس في حين الحشد يشاهد.	1.800000
+The man is a the library.	الرجل في المكتبة.	5.000000
+A little girl swimming in the ocean.	صبي صغير يسبح في المحيط.	3.000000
+The man is flexing his muscles.	رجل يستعرض عضلاته.	5.000000
+Two men are fighting over who gets to speak into the microphone.	اثنان من النساء يقفون ظهراً لظهر.	0.400000
+The man is doing cartwheels down the street.	رجل يسير بسرعة في الشارع.	2.000000
+A groom and his wife kiss while posing for photos.	العروس تقف للصور مع أفراد أسرة زوجها الجديد.	2.400000
+Dogs on a mountainside with their heads in the ground.	الصبي والكلب خارج الحديقة مع القليل من الثلج لا تزال على الأرض.	1.000000
+The man with the beard is driving his car.	الرجل الأسود يقود سيارته بكلتا يديه على عجلة القيادة.	2.400000
+It is raining very lightly.	إنها تثلج بغزارة	1.200000
+Two children dressed as clowns on ropes performing with other children.	طفلان بزي مهرجين يتأرجحان على الحبال فوق أطفال آخرين، الذين هم أيضا في زي.	4.000000
+A homeless person is taking a nap.	هناك شخص بلا مأوى يأخذ قيلولة.	5.000000
+A man is sitting watching a parade of clown cars.	رجل يراقب الموكب.	3.800000
+Multiple people carry a sesame street float through the streets for a parade.	شخصان يركبان دراجاتيهما في الشارع مع شخص يقف على القرب منهما على الرصيف.	0.600000
+two men holding cats.	الرجال الثلاثة يطاردون كلب.	0.600000
+A female is vaulting at the Olympics.	لاعبة الجمباز في المسابقة.	2.000000
+A man is eating some cake as he walks.	يبدو أن رجل يحصل على الكثير من الحب من سمكة قرش بيضاء ضخمة.	0.200000
+A man is resting from a wipeout he had due to a hard trick	تأخذ المرأة استراحة.	0.800000
+A person is checking out buildings to buy.	رجل ينظر إلى بعض المواد الغذائية على عصا ليشتري لنفسه أو لشخص آخر.	0.600000
+The man is at the office.	الرجل في الغرفة هو المخرج.	2.000000
+A musician plays guitar while sitting.	يلعب موسيقي الغيتار.	4.400000
+The biker is riding in a bike race.	النساء يركبن الدراجة في سباق الطريق.	2.200000
+The Vons shopping carts are being loaded onto the truck by a man.	كانت مجموعة من السيارات متوقفة على الشارع.	0.200000
+The Chinese girl was playing the guitar.	رجلان يلعبان الغيتار بينما هم على متن قارب.	1.000000
+The person is hiding under an umbrella.	شخص تحت مظلة.	4.200000
+A woman and her kids are flying kites.	امرأة وأطفالها يطيّرون الطائرات الورقية في المطر.	4.400000
+A man attempts to get good signal inside an internet cafe.	شخص يقوم بمكالمة هاتفية على الرصيف.	1.200000
+Two men learning to use their legs again.	النساء والرجال يستخدمون أيديهم لتقديم وجهة نظرهم.	0.200000

@@ -1,0 +1,205 @@
+a bird lands in the water.	a boat floats in the water.	0.6	0.2857142857142857	9.248533172859936
+A brown dog jumping into the air to catch a ball.	three young woman jumping into the air to catch a ball.	0.6	0.25	6.920415224913495
+A woman is sitting in the water.	The woman is skating in the park.	0.8	0.375	16.631563111177975
+A skateboarder jumps off the stairs.	A dog jumps off the stairs.	0.8	0.14285714285714285	2.6064389950353544
+A man blowing a large bubble.	A man walking a large black horse.	0.0	0.4017857142857143	19.00481420189559
+A group of people are walking down the sidewalk of a big city.	A group of people are riding in the back of a truck.	1.0	0.3708791208791209	16.31563111177975
+Typhoon death toll rises to 3633	Egyptian death toll rises to 638	0.6	0.3333333333333333	12.896795546863247
+the state of being in contact	the state of being active.	1.0	0.3333333333333333	12.896795546863247
+the state of being retained	the state of being angry.	0.0	0.3666666666666667	15.845494207913344
+the act of forecasting or predicting something	the act of decreasing or reducing something.	0.6	0.4017857142857143	19.00481420189559
+the state of being retained	the state of being active.	0.8	0.3666666666666667	15.845494207913344
+the state of being employed	the state of being excommunicated.	0.0	0.3666666666666667	15.845494207913344
+a person who is a member of the senate	a person who is a member of a partnership.	0.4	0.31666666666666665	11.930194072513917
+the state of being employed	the state of being depleted.	0.0	0.3666666666666667	15.845494207913344
+The act of beginning something new.	the act of rejecting something.	0.0	0.30952380952380953	11.27952459756281
+the state of being retained	the state of being rejected.	0.6	0.3666666666666667	15.845494207913344
+The act of beginning something new.	the act of decreasing something markedly.	0.4	0.2857142857142857	9.248533172859936
+The act of beginning something new.	the act of stopping something.	0.8	0.30952380952380953	11.27952459756281
+the act of preserving or protecting something	the act of decreasing or reducing something.	0.6	0.4017857142857143	19.00481420189559
+put in a dangerous position	put in a horizontal position.	0.8	0.3666666666666667	15.845494207913344
+The act of beginning something new.	the act of breaking something.	0.6	0.30952380952380953	11.27952459756281
+the state of being in contact	the state of being excluded.	0.0	0.3333333333333333	12.896795546863247
+the act of putting something to use.	the act of putting something somewhere.	1.0	0.26785714285714285	8.135248984504287
+An object impairs the respiration of someone or something.	an advantage to the benefit of someone or something.	0.0	0.3	10.448322551527005
+the state of being employed	the state of being excluded.	0.8	0.3666666666666667	15.845494207913344
+The act of beginning something new.	the act of ending something.	0.6	0.30952380952380953	11.27952459756281
+the state of being retained	the state of being suspected.	1.0	0.3666666666666667	15.845494207913344
+the act of substituting one thing for another	the act of contacting one thing with another.	0.8	0.35416666666666663	14.59681059124417
+the act of preserving or protecting something	the act of decreasing or reducing something.	0.6	0.4017857142857143	19.00481420189559
+the act of putting something to use.	the act of hiring something or someone.	0.8	0.375	16.631563111177975
+the act of forecasting or predicting something	the act of decreasing or reducing something.	0.6	0.4017857142857143	19.00481420189559
+protect with or as if with a shield	maintain with or as if with a bet.	0.4	0.35416666666666663	14.59681059124417
+The skinny cows are standing on the grass.	The white ducks are standing on the ground.	0.6	0.3333333333333333	12.896795546863247
+The lamb is looking at the camera.	A cat looking at the camera.	0.8	0.4017857142857143	19.00481420189559
+A black and white cow standing in a grassy field.	A blue jay standing in a grassy field.	0.6	0.40404040404040403	19.565217391304348
+Two people sitting on a large motorcycle.	Two eagles sitting on a long branch.	0.4	0.375	16.631563111177975
+Two white dogs are swimming in the water.	The birds are swimming in the water.	0.8	0.35416666666666663	14.59681059124417
+A white airplane is parked on the cement.	A blue motorcycle is parked on the sidewalk.	0.8	0.3333333333333333	12.896795546863247
+A black and white dog looking at the camera.	A grey, black, and white cat looking at the camera.	1.0	0.35384615384615387	14.303445163231533
+A black and white cow looking through the fence.	A black and white dog looking at the camera.	1.0	0.3	10.448322551527005
+Two women in a clothing store.	Two women in a sailboat.	0.8	0.30952380952380953	11.27952459756281
+Imagine a place that's % white and % black.	Imagine a place with % men and % women.	1.0	0.38181818181818183	17.353693395516775
+"Fairies don't exist" - fine.	"Leprechauns don't exist" - fine.	1.0	0.1111111111111111	1.7263427109974425
+The UK population is just over  million.	The Japanese population is nearly  million.	1.0	0.4017857142857143	19.00481420189559
+I've never accused him of over-milligraming, nothing.	I've never accused him of doctoring a baseball.	0.4	0.3	10.448322551527005
+i don't want a president who 'cares'.	i don't want a president who is charasmatic.	1.0	0.2863636363636364	9.729953362419137
+Your schtick is getting stale.	Your misogyny is getting messy.	0.4	0.3333333333333333	12.896795546863247
+Higher than  per cent but not very high.	Lower than  per cent but not very low.	1.0	0.2222222222222222	5.521287799007071
+Jake with the assist.	Voracek with the goal.	0.4	0.4	18.24131187001655
+The Muslims would say the same thing about the Qur'an.	The Hindus would say the same thing about the Bhagavad Ghita.	1.0	0.25	6.920415224913495
+Where in the world is Ron Paul?	Where in the world is the MEDIA??	0.8	0.35416666666666663	14.59681059124417
+Except that it wasn't.	Except that they couldn't.	1.0	0.3333333333333333	12.896795546863247
+Manning sentenced to 35 years in prison	Ariel Castro sentenced to 1,000 years in prison	0.4	0.4017857142857143	19.00481420189559
+India Ink: Image of the Day: January 27	India Ink: Image of the Day: March 20	1.0	0.2	4.761546562358959
+Morsi supporters clash with riot police in Cairo	Protesters clash with riot police in Kiev	0.8	0.4017857142857143	19.00481420189559
+Iran earthquake death toll rises	Algeria hostage death toll rises	0.6	0.4	18.24131187001655
+tirana is the capital of 	abuja is the capital of	1.0	0.2	4.761546562358959
+bulgaria is located on the southeastern part of the balkan peninsula. 	drug-trafficking activity is rampant in the southeastern part of the balkan peninsula.	1.0	0.3205128205128205	12.167143072062585
+tskhinvali is the capital of georgia. 	paris is the capital of france.	0.4	0.2857142857142857	9.248533172859936
+It's not a good idea.	It's a good question.	0.0	0.30952380952380953	11.27952459756281
+It's pretty much up to you.	It's much better to ask.	0.0	0.4017857142857143	19.00481420189559
+There is no maximum.	There is no quarantine period.	0.0	0.3666666666666667	15.845494207913344
+You should do it.	You should prime it first.	0.0	0.3666666666666667	15.845494207913344
+Vietnamese citizens need a visa to visit the USA.	Nepalese citizens require a visa to visit the UK.	1.0	0.3	10.448322551527005
+It depends on how it's used.	It depends on how long it's been out.	1.0	0.3375	13.54370392658342
+You don't need any visa.	You don't need sauce at all.	0.0	0.4017857142857143	19.00481420189559
+This is a great one... 	This is a difficult one.	1.0	0.3333333333333333	12.896795546863247
+Yes, there is a chemical difference.	Yes, there is a reason for it.	0.0	0.35416666666666663	14.59681059124417
+I think it's just a habit.	I think it's a bad idea.	1.0	0.375	16.631563111177975
+You should do it.	You should never do it.	1.0	0.18333333333333335	4.171054611102753
+Microsoft is right, its operational system is important but also its software.	Microsoft is right, its operational system is losing importance but also its software.	1.0	0.1380952380952381	2.3657289002557547
+. People signs indicate the street.	. No signs indicate the street.	1.0	0.14285714285714285	2.6064389950353544
+The supercolle to walk on the walls.	Superglue to walk on the walls.	1.0	0.26785714285714285	8.135248984504287
+Readers, however, have the advantage of having an order easy.	MP3 players, however, have the advantage of having easy controls.	0.0	0.38461538461538464	17.534225966601475
+Top Asian News at 2:30 p.m. GMT	Top Asian News 1:25 p.m. GMT	1.0	0.35416666666666663	14.59681059124417
+Singapore shares open 0.83% higher on Wednesday	Singapore shares open 0.06% lower on Tuesday	1.0	0.375	16.631563111177975
+Live Blog: Ukraine In Crisis	Live Blog: Iraq In Turmoil	0.0	0.3333333333333333	12.896795546863247
+What is the best way to repair a cracked bathtub?	What is the best way to fix this garage floor?	0.0	0.36363636363636365	15.127125018805476
+What's the best way to store asparagus?	What's the best way to store unused sushi rice?	0.0	0.303030303030303	10.696554836768467
+What kind of socket is this?	What type of faucet is this?	0.0	0.2857142857142857	9.248533172859936
+What is the difference between a stock and a bond?	What is the difference between a mode and a scale?	0.0	0.18181818181818182	3.9942831352489847
+Is it possible to replace a switch with a receptacle?	Is it safe to replace a switch with a dimmer on halogen spots?	1.0	0.40584415584415584	19.72318339100346
+What is the best way to toast pecans?	What is the best way to introduce cats to newborns?	0.0	0.40404040404040403	19.565217391304348
+What is the best way to repair a cracked bathtub?	What is the best way to clean a grater?	0.0	0.2863636363636364	9.729953362419137
+What is the best way to store fresh berries?	What is the best way to store chopped vegetables?	1.0	0.2	4.761546562358959
+What is the best way to store fresh berries?	What is the best way to store carrots?	1.0	0.2111111111111111	5.242966751918159
+What is the best way to store fresh berries?	What is the best way to cite an anonymous writer?	0.0	0.38181818181818183	17.353693395516775
+How long does cooked TVP keep in the fridge?	How long will uncooked chicken keep in the fridge?	1.0	0.3	10.448322551527005
+What is the difference between assertive and non-assertive words?	What is the difference between portamento and glissando?	0.0	0.31666666666666665	11.930194072513917
+What is the best way to store fresh berries?	What is the best way to filter the Turkish coffee?	0.0	0.38181818181818183	17.353693395516775
+How do I remove paint from a wood floor?	How do I remove paint from pipes?	1.0	0.3375	13.54370392658342
+What is the best way to clean your clothes dryer exhaust?	What is the best way to clean a grater?	0.0	0.3666666666666667	15.845494207913344
+How should I store eggs in the refrigerator?	How long can I store cooked rice in the refrigerator?	1.0	0.40404040404040403	19.565217391304348
+What is the best way to treat feline ringworm?	What is the best way to clean a grater?	0.0	0.3	10.448322551527005
+What's the best way to seal around this faucet?	What's the best way to store asparagus?	0.0	0.40404040404040403	19.565217391304348
+What is the difference between a stock and a bond?	What is the difference between a riff and a lick?	0.0	0.18181818181818182	3.9942831352489847
+What is the difference between shawarma and gyros?	what is the difference between Erebor and Moria?	0.0	0.2222222222222222	5.521287799007071
+What is the best way to apply Shellac-based primer?	What is the best way to clean a grater?	0.0	0.3	10.448322551527005
+What is the difference between a filler word and a discourse marker?	What is the difference between a copula and a transitive verb?	0.0	0.3205128205128205	12.167143072062585
+Where can I find a good vocabulary list?	Where can I find a good online thesaurus?	1.0	0.2222222222222222	5.521287799007071
+What is this vocal technique called?	What is this stucco-like finish called?	0.0	0.2857142857142857	9.248533172859936
+What kind of socket is this?	What kind of bug is this?	0.0	0.14285714285714285	2.6064389950353544
+What is the actual difference between Graduate and Undergraduate texts?	What is the difference between portamento and glissando?	0.0	0.40404040404040403	19.565217391304348
+What is the difference between EFTA and the EU?	what is the difference between Erebor and Moria?	0.0	0.31666666666666665	11.930194072513917
+What is the best way to store fresh berries?	What is the best way to fix this garage floor?	0.0	0.38181818181818183	17.353693395516775
+How do I remove paint from a wood floor?	How do I remove paint from a porous table top?	1.0	0.2863636363636364	9.729953362419137
+What is the difference between a stock and a bond?	What is the difference between chicken cubes and ground chicken?	0.0	0.36363636363636365	15.127125018805476
+What is the best way to toast pecans?	What's the best way to store asparagus?	0.0	0.3333333333333333	12.896795546863247
+What kind of socket is this?	What type of asbestos is this?	0.0	0.2857142857142857	9.248533172859936
+What was the meaning of "21 grams"?	What is the meaning of "$N industry"?	0.0	0.38181818181818183	17.353693395516775
+What is the difference between shawarma and gyros?	What is the difference between portamento and glissando?	0.0	0.2222222222222222	5.521287799007071
+What is the significance of the cat?	What is the significance of the artwork?	0.0	0.125	2.0798856627049798
+How do I clean a very dirty refrigerator?	How do I clean a Hammerite paint brush?	1.0	0.3333333333333333	12.896795546863247
+Why doesn't my cat lick me?	Why doesn't my cat like being held?	1.0	0.35416666666666663	14.59681059124417
+What is the best way to store fresh berries?	What is the best way to store ground coffee?	1.0	0.2	4.761546562358959
+What is the difference between a stock and a bond?	What is the difference between a tortoise and a turtle?	0.0	0.18181818181818182	3.9942831352489847
+How long can you keep chocolate in the freezer?	How long can I keep bread dough in the refrigerator?	1.0	0.38181818181818183	17.353693395516775
+A man is smoking.	A man is skating.	0.5	0.2	4.761546562358959
+A woman is writing.	A woman is swimming.	0.5	0.2	4.761546562358959
+A man is finding something.	A woman is slicing something.	0.8	0.3333333333333333	12.896795546863247
+A man is playing the piano.	A woman is playing the violin.	1.0	0.2857142857142857	9.248533172859936
+A woman is playing the flute.	A man is playing the guitar.	1.0	0.2857142857142857	9.248533172859936
+A man is speaking.	A man is spitting.	0.636	0.2	4.761546562358959
+A man is cycling.	A man is talking.	0.6	0.2	4.761546562358959
+A man is dancing.	A man is talking.	0.6	0.2	4.761546562358959
+A man is fishing.	A man is exercising.	0.5	0.2	4.761546562358959
+A man is levitating.	A man is talking.	0.8	0.2	4.761546562358959
+Two boys are driving.	Two bays are dancing.	0.6	0.4	18.24131187001655
+A man is playing soccer.	A man is playing flute.	1.0	0.16666666666666666	3.418835564916504
+A man is riding a motorcycle.	A woman is riding a horse.	0.75	0.2857142857142857	9.248533172859936
+A man is running on the road.	A car is driving down the road.	1.0	0.375	16.631563111177975
+A woman is reading.	A woman is kneading dough.	1.0	0.3666666666666667	15.845494207913344
+A man is riding on a horse.	A man is talking on a phone.	1.0	0.25	6.920415224913495
+A man is crying.	A woman is dancing.	0.6	0.4	18.24131187001655
+A woman is dancing.	A man is eating.	0.143	0.4	18.24131187001655
+A man is speaking.	A man is cooking.	0.8	0.2	4.761546562358959
+A woman is picking a can.	A woman is slicing a tomato.	1.0	0.2857142857142857	9.248533172859936
+A cat is playing a piano.	A man is playing a guitar.	0.6	0.2857142857142857	9.248533172859936
+A woman is dancing.	A man is talking.	0.0	0.4	18.24131187001655
+A man is rowing a boat.	A man is slicing a tomato.	0.4	0.2857142857142857	9.248533172859936
+A man is paddling a canoe.	A man is playing a harp.	0.667	0.2857142857142857	9.248533172859936
+A man is dancing outside.	A man is playing flute.	1.0	0.3333333333333333	12.896795546863247
+A woman is sitting at a desk.	A woman is riding a donkey.	0.4	0.4017857142857143	19.00481420189559
+A woman is taking a bath.	A woman is riding a horse.	0.538	0.2857142857142857	9.248533172859936
+A man is playing a guitar.	A man is cleaning a glass door.	0.4	0.4017857142857143	19.00481420189559
+A man is playing a guitar.	A man is driving a car.	0.5	0.2857142857142857	9.248533172859936
+A woman is doing weight exercises.	A woman is doing her hair.	0.5	0.2857142857142857	9.248533172859936
+Someone is feeding a animal.	Someone is playing a piano.	0.0	0.3333333333333333	12.896795546863247
+Someone is mixing ingrediants.	Someone is sewing things.	0.25	0.4	18.24131187001655
+A man is opening a door.	A man is playing a guitar.	0.8	0.2857142857142857	9.248533172859936
+A man is slicing a tomato.	A man is riding a horse.	0.8	0.2857142857142857	9.248533172859936
+A man is dancing.	A man is eating bread.	0.8	0.3666666666666667	15.845494207913344
+A man is talking on a phone.	A man is singing to a woman.	0.25	0.375	16.631563111177975
+A woman is dancing.	A woman is kneading dough.	0.4	0.3666666666666667	15.845494207913344
+A woman is dancing.	A woman is playing violin.	0.4	0.3666666666666667	15.845494207913344
+A man is playing guitar.	A man is draining pasta.	0.4	0.3333333333333333	12.896795546863247
+A woman is drinking vodka.	A woman is exercising.	0.4	0.3666666666666667	15.845494207913344
+A woman is water skiing.	A woman is slicing fish.	0.4	0.3333333333333333	12.896795546863247
+A man is playing a guitar.	A man is eating a banana.	0.6	0.2857142857142857	9.248533172859936
+A man is playing a flute.	A man is riding a scooter.	0.8	0.2857142857142857	9.248533172859936
+A man is rinsing a steak.	A man is playing a guitar.	0.6	0.2857142857142857	9.248533172859936
+A man is kicking a soccer ball.	A man is mixing a bowl.	0.6	0.4017857142857143	19.00481420189559
+A man is riding a horse.	A man is playing a keyboard.	0.2	0.2857142857142857	9.248533172859936
+A man is walking on a rope.	A man is riding a mo-pad.	0.4	0.4017857142857143	19.00481420189559
+A man walks down a path.	A man walks across a tight rope.	0.8	0.4017857142857143	19.00481420189559
+A man is rowing a boat.	A man is shooting off a gun.	0.85	0.4017857142857143	19.00481420189559
+A man is mowing grass.	A man is busting concrete.	0.833	0.3333333333333333	12.896795546863247
+the act of lifting something	the act of climbing something.	0.6	0.3666666666666667	15.845494207913344
+the act of preserving or protecting something	the act of decreasing or reducing something.	0.4	0.4017857142857143	19.00481420189559
+The act of testing something.	the act of breaking something.	0.8	0.16666666666666666	3.418835564916504
+The state of being suspected.	the state of being excluded.	0.6	0.16666666666666666	3.418835564916504
+The act of beginning something new.	the act of hiring something or someone.	1.0	0.4017857142857143	19.00481420189559
+the act of lifting something	the act of describing something.	0.0	0.3666666666666667	15.845494207913344
+the act of lifting something	the act of retaining something.	0.8	0.3666666666666667	15.845494207913344
+The act of controlling by restraining someone or something.	the act of liberating someone or something.	0.2	0.3375	13.54370392658342
+The human act of making something new.	the speech act of making something evident.	0.8	0.25	6.920415224913495
+Rewrite in a different script.	extend in a different direction.	0.2	0.3333333333333333	12.896795546863247
+The act of testing something.	the act of dropping something.	0.4	0.16666666666666666	3.418835564916504
+The act of testing something.	the act of rejecting something.	0.4	0.16666666666666666	3.418835564916504
+the act of shoving something away	the act of starting something.	0.6	0.3333333333333333	12.896795546863247
+The act of testing something.	the act of raising something.	0.8	0.16666666666666666	3.418835564916504
+The act of dividing or disconnecting.	the act of drawing or hauling something.	0.2	0.4017857142857143	19.00481420189559
+The act of testing something.	the act of retaining something.	0.0	0.16666666666666666	3.418835564916504
+the act of lifting something	the act of chipping something.	0.0	0.3666666666666667	15.845494207913344
+the act of explaining or defending something	the act of designating or identifying something.	0.6	0.4017857142857143	19.00481420189559
+The state of being suspected.	the state of being rejected.	0.8	0.16666666666666666	3.418835564916504
+the act of lifting something	the act of stopping something.	0.2	0.3666666666666667	15.845494207913344
+the act of lifting something	the act of cracking something.	0.4	0.3666666666666667	15.845494207913344
+The act of beginning something new.	the act of ending something.	0.8	0.30952380952380953	11.27952459756281
+the act of annoying someone or something	the act of liberating someone or something.	0.2	0.26785714285714285	8.135248984504287
+whip with or as if with a whisk	urge with or as if with a goad.	0.0	0.35416666666666663	14.59681059124417
+the state of being in contact	the state of being excluded.	0.6	0.3333333333333333	12.896795546863247
+The act of testing something.	the act of climbing something.	0.0	0.16666666666666666	3.418835564916504
+the act of selecting or picking something	the act of decreasing or reducing something.	1.0	0.4017857142857143	19.00481420189559
+the act of lifting something	the act of starting something.	0.8	0.3666666666666667	15.845494207913344
+The state of being absent.	the state of being suspected.	0.6	0.16666666666666666	3.418835564916504
+the act of acknowledging the truth of something	the act of perceiving the odor of something.	0.0	0.35416666666666663	14.59681059124417
+the act of lifting something	the act of testing something.	0.8	0.3666666666666667	15.845494207913344
+the act of shoving something away	the act of testing something.	0.6	0.3333333333333333	12.896795546863247
+the act of lifting something	the act of dropping something.	0.2	0.3666666666666667	15.845494207913344
+The act of testing something.	the act of cracking something.	0.6	0.16666666666666666	3.418835564916504
+The state of being absent.	the state of being excommunicated.	0.4	0.16666666666666666	3.418835564916504
+The act of testing something.	the act of stopping something.	0.6	0.16666666666666666	3.418835564916504
+Newcastle 2-0 Liverpool: Match report, pictures & video highlights	QPR 1-2 West Ham: Match report, pictures & video highlights	1.0	0.3484848484848485	14.168045734918008
+Dozens killed in Nigerian riots	Dozens killed in Kenyan clashes	1.0	0.4	18.24131187001655

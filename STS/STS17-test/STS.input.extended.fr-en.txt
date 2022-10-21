@@ -1,0 +1,250 @@
+Une personne fait partie d'une équipe de baseball.	A person is playing basketball on a team.	2.400000
+Nos véhicules actuels seront dans les musées lorsque chacun aura son propre avion.	The car needs to some work	0.200000
+Une superviseure instruit les travailleurs masculins.	A woman is working as a nurse.	1.000000
+Un vélo est à côté d'un couple de femmes.	A child next to a bike.	2.000000
+Le groupe mange tout en profitant d'une vue à couper le souffle.	A group of people take a look at an unusual tree.	2.200000
+Le garçon lève la main.	The man is raising his hand.	3.400000
+Un homme à la barbe grise se fait raser devant une salle de conférence	A man with a beard is sitting in the grass.	0.800000
+Le ciel a très peu ou pas de nuages.	This Lady might be ready for Rock Climbing, or just watching the Clouds, above.	0.400000
+Le jeune garçon saute pieds nus dehors dans la cour avant.	The teen rode his bike around the people walking in the courtyard.	0.400000
+Il y a des chiens dans la forêt.	The dogs are alone in the forest.	4.000000
+Certains cyclistes s'arrêtent près d'un panneau.	Two men stop to talk near a sign outside.	3.400000
+Ces cuisiniers en blanc s'affairent dans la cuisine à préparer le dîner pour leurs clients.	The women are preparing dinner in their kitchen.	3.000000
+Un jeune plongé dans ses pensées.	A young man deep in thought.	4.600000
+Un homme porte un canot avec un chien.	A dog is carrying a man in a canoe.	1.800000
+Un homme effectue un travail.	A man is performing today.	2.800000
+Deux hommes portant des vêtements traditionnels se tiennent à l'extérieur.	Three women wearing black vests and gray shirts are talking outside of a building.	2.000000
+une femme regarde un groupe de rap en direct	An audience watches a girl dance.	2.200000
+Une fille qui danse sur une plage de sable.	A girl is on a sandy beach.	3.600000
+un homme portant un chapeau gris pêchant hors d'un bateau de pêche.	A man wearing a straw hat and fishing vest in a stream.	2.600000
+Une petite fille en tenue rayée orange est en l'air alors qu'elle rebondit sur un lit.	A dog in a red shirt is chasing a squirrel through the glass.	0.200000
+Une personne regarde les gens descendre la colline à ski.	The woman is jumping a long distance while people watch.	1.400000
+La cour a un chien.	The dog is running after another dog.	1.600000
+La femme boit de la limonade et regarde T.V.	The man is sitting drinking coffee.	0.400000
+Trois femmes cuisinent.	Two women cooking.	3.200000
+La femme est agenouillée à côté d'un chat.	A girl is standing next to a man.	0.200000
+Le jeune adulte a froid	Asian children are playing with a dog.	0.200000
+Trois mecs jouent à un match de basket professionnel.	two guys playing a game of baseball.	2.400000
+Un homme triste saute par-dessus un petit ruisseau pour rencontrer son compagnon de l'autre côté.	A man is jumping over a stream to meet his companion on the other side.	3.800000
+Les garçons gagnent leur prochaine ceinture en karaté.	Five girls and one boy are in their swimsuits all in the middle of jumping into the pool.	0.200000
+Une femme creuse dans le sable.	A man is buried in the sand.	1.400000
+Une femme conduit une voiturette de golf.	A man riding a cart.	1.800000
+Une femme fait du saut à l'élastique.	A girl is bungee jumping.	4.200000
+Un clown joue pour son frère et sa sœur pendant que le reste de la soirée regarde.	A blond-haired child performing on the trumpet in front of a house while his younger brother watches.	1.200000
+Une personne qui filme à l'extérieur.	There is a couple outdoors.	1.600000
+Un humain sur une planche à roulettes.	A child is riding a skateboard.	3.800000
+Une femme en tenue à carreaux regarde à travers un sac de produits.	This is the picture of a woman in a flowered dress, toting something in a bucket.	1.000000
+Quatre filles marchent joyeusement sur un trottoir.	Three young girls walk down a sidewalk.	3.400000
+Le joueur de tennis a frappé la balle dans l'espace et a brisé l'étoile de la mort.	A female tennis player is leaping into the air to hit the ball.	1.200000
+Un garçon monte une colline forestière.	A boy is climbing a hill.	4.000000
+un groupe de phoques de la marine chantent	A group of military personnel are playing in a brass quintet.	2.400000
+Garçon blond sautant sur le pont.	A boy jumping down a wet inflatable slide.	2.000000
+Un homme utilise une tronçonneuse pour sculpter une sculpture de glace phallique.	A man is using a chainsaw to carve a wooden sculpture.	2.600000
+Un groupe de travailleurs de la construction de sexe masculin réparer les voies ferrées sur un jour nuageux	A crew of workers working on a railroad track.	3.800000
+Un homme jouant du violon sous la pluie.	A man playing the guitar in the rain.	3.200000
+Les gens quittent l'avion.	The people are entering the plane.	2.200000
+Les chiens poursuivent un chat.	The dogs are chasing a black cat.	4.400000
+La fille a quelque chose sur la tête.	The woman has something with her.	2.600000
+le chien bronzé joue avec le chien rouge dans la neige	A yellow dog is playing in the snow.	2.600000
+Les gens font une structure avec des cartes.	Two people are together and one is using a piece of clothing in a different way than intended.	0.200000
+une fille avec des vases en arrière-plan à l'intérieur de sa maison	The girl is standing as the other girl with glasses works on her hand painting.	0.200000
+Il y a quatre personnes dehors.	Five people are outside.	3.000000
+Une personne assise dans un bureau prend une photo.	A woman is sitting in an office.	3.200000
+Les filles se tiennent la main dans des vêtements bleus	The young people are wearing jeans with their red and green shirts.	1.800000
+Les gens sautent dans l'eau pendant que les gens pêchent en arrière-plan.	Two people watching the water.	2.200000
+Un homme montre comment travailler avec de l'argile pendant qu'au moins deux personnes observent.	At least one of the three women is talking to the others.	0.600000
+Un chien porte un pull.	A man in a suit jacket is sitting on a red couch with a cat.	0.600000
+Une femme blonde cherche des fournitures médicales pour travailler dans une valise.	The blond woman is searching for medical supplies in a suitcase.	5.000000
+Un garçon est à l'école pour passer un test.	The boy is taking a test at school.	5.000000
+Un vieil homme portant un chapeau se tient à l'extérieur d'une porte de magasin.	a man in an oversized shirt sits at a shop	2.200000
+Sculpteur appliquant du béton à une grande statue de figure humaine debout sans tête.	A person is standing in front of a building holding aloft some plywood	0.200000
+Un garçon aux cheveux noirs est dans l'eau et regarde vers le haut.	The man is short hair.	0.600000
+Un poteau est derrière une personne qui joue au coucou avec un enfant.	There is a child with a ball	0.200000
+Une femme s'apprête à peindre.	A boy is about to take a picture.	1.000000
+La voiture est tirée par un cheval.	A man riding on a bicycle by side of building.	0.400000
+un homme travaillant à l'aciérie	A man working in a foundry.	3.400000
+La jeune femme flirte avec le jeune garçon.	The girl is young and cheery.	1.400000
+Une femme regarde un canard alors qu'elle marche derrière lui.	A woman is going on a walk with her dog.	1.000000
+les hommes sont sur le point de marquer dans un tournoi de water-polo	The two men are about to compete in a match.	2.000000
+Homme assis sur un banc à boire dans une tasse entourée de tapis.	A man is sitting on one of two red benches and staring into a kiosk.	2.200000
+Un homme mange du pop-corn en regardant des dessins animés tard dans la nuit.	A man and a girl are watching cartoons at home	2.800000
+Trois hommes sont assis sur un banc.	two men sit on a bench.	3.200000
+La route est longue.	There is nothing on the side of the road.	0.800000
+Un petit garçon blond glisse la tête la première dans une aire de jeux bleue vers un autre jeune blond.	A young boy with his hair standing up, is sliding down a blue slide	2.000000
+Les quatre femmes s'entraînent pour un prochain match.	The women are in a play	1.200000
+un jeune homme portant un t-shirt blanc et un short vert et noir debout sur une souche.	A man wearing a white shirt and red and black shorts is running on the sidewalk.	1.800000
+homme sur les marches	A man sits on steps.	4.000000
+Un chien sous les escaliers	A dog is resting on the stairs.	2.200000
+Il y a une jeune fille.	There is a young boy with the woman.	1.000000
+Deux femmes font une démonstration lors d'une foire de la Renaissance.	Two people are doing a demonstration at a renaissance fair.	4.200000
+Une femme peint une image d'un grand bâtiment qui peut être vu en arrière-plan.	A person paints a picture of a large building which can be seen in the background.	4.200000
+Un gars assis sur un canapé à regarder la télévision.	A guy is sitting on the couch watching TV	5.000000
+Une femme pose pour une carte de Noël.	A girl is taking a photo.	1.200000
+Deux enfants jouent à un jeu de baby-foot.	The kids are playing a game with each other.	3.400000
+L'homme est dans un champ désert.	The man is outside in the field.	4.000000
+Un petit garçon boit dans un sachet de jus.	A boy is drinking from a juice packet.	4.800000
+Un homme a ses skis prêts pour que le terrain soit glacé	A man on a boat getting ready to pull in his net to see what he caught.	0.400000
+Le motard fait des cascades dangereuses.	A biker is doing stunts.	4.400000
+Un musicien enduit de la confiture sur sa guitare blanche lors d'un concert.	Trombonist playing the her instrument in a band for a parade.	0.400000
+Un homme travaille sur sa ferme.	An old guy is working on his farm and a cow kicks him.	2.800000
+Une paire de jeunes garçons en t-shirts se cache dans les bois avec un air consterné.	Two smiling little girls playing in a fountain with other people.	0.000000
+Un groupe de personnes jouant au soccer sur un terrain de soccer devant une foule.	A group of men playing soccer in a stadium full of people.	3.000000
+Un homme aime regarder trois enfants asiatiques danser.	A man is watching three asian kids dance.	4.600000
+Une fille parle à son père sur un téléphone portable.	a girl is talking on her phone.	4.400000
+Une personne brandit un parapluie.	One person is holding an umbrella.	4.400000
+Une femme qui marche sur le côté d'une autoroute.	A man is standing on one feet on a bridge.	0.400000
+Un groupe d'adolescents sautant et s'amusant.	A group of kids having a good time.	3.600000
+Un homme appelant à un taxi à l'aéroport par une journée ensoleillée.	A man is outside on a July day.	1.400000
+Un homme joue de sa guitare au Joe's Cafe.	The man is playing the drums for his mom.	1.200000
+Un jeune garçon a une canne à pêche rouge.	A young boy stands over a bridge with a fishing pole.	3.000000
+Un joueur fait rebondir une balle.	A player catching a ball.	1.600000
+Quelqu'un est sur une couverture.	The person is making a blanket.	1.400000
+Hommes participant à un concours.	Two women compete in a contest.	2.400000
+Le chiot est en plein air.	A man in printed board shorts is doing a yoga pose on the beach.	0.000000
+L'homme a une chemise orange.	The woman has a orange shirt.	3.400000
+Les deux enfants regardent les produits vendus dans la boutique du métro.	The kids are stealing from a store.	0.800000
+Le petit garçon veut sa mère.	A baby boy is happy to see his mother.	2.800000
+Une jeune fille dans une veste rose joue à un jeu de société.	A boy in a jacket playing.	1.600000
+Un homme de race blanche souriant portant une chemise à rayures bleues et noires sur le point de prendre une photo.	A man in a white shirt and black pants is smiling.	1.600000
+Une personne escalade une paroi rocheuse.	A person and a horse are above a fence.	0.200000
+Un garçon est très proche d'une fille.	A girl is close to a boy whose face is not shown.	3.200000
+Deux hommes jouent ensemble au Scrabble.	The two women are playing a game.	2.200000
+Six enfants nettoient une pièce.	Two male children cleaning up leaves in a parking lot.	1.600000
+La fille est très habile et pratique beaucoup.	The man is very skilled.	2.000000
+De nombreux gardes se tiennent devant la ligne de départ d'une course.	Two men in business dress are standing by the side of a road.	0.400000
+Il y a un cuisinier qui prépare la nourriture.	A cook is making food.	5.000000
+Deux hommes aident un garçon.	Two men are with a young child.	3.600000
+Un homme sur un marché de producteurs.	A man is at a farmers market.	4.800000
+quatre personnes marchent vers une tour	Two men walk toward a dome-shaped building.	2.000000
+Une petite fille et un garçon lisent des livres.	An older child is playing with a doll while gazing out the window.	0.200000
+L'enfant aimerait nager.	The children want to swim.	3.800000
+Deux skieurs font du ski de fond.	People skiing cross country.	3.600000
+Un chien prend un caca dans la rue.	A man making balloon animals for two children on a street corner.	0.400000
+Les hommes se battent après un match de basket.	The men are playing a game of basketball.	2.200000
+Un enfant parle en classe.	A girl is going to class.	1.800000
+Les femmes essaient de vendre quelque chose à l'individu.	The men are trying to make some money.	1.200000
+Les gens attendent le feu d'artifice pour commencer.	Three people are waiting for the rain to stop.	1.200000
+Un chien se prépare à rassembler trois moutons à cornes.	A dog and sheep run together.	2.200000
+Les gens sont assis autour de tables faiblement éclairées tout en souriant et en riant.	People are sitting on benches.	2.000000
+Un chien poursuit des vaches.	A white dog is chasing cows.	4.000000
+Un joueur de football essaie de s'attaquer à un joueur de l'équipe adverse.	A football player attempts a tackle.	4.600000
+Trois hommes sèchent pour tirer une Subaru d'un fossé le long d'une route de montagne.	Two men are waiting for a ride on the side of a dirt road.	1.400000
+Une femme n'a pas les bras levés parce qu'elle est paralysée du cou vers le bas	A woman is sitting on the steps because she tripped and hurt her ankle.	0.800000
+Les gens se sont rassemblés dans une pièce.	People gathered together in a room.	5.000000
+La femme en salopette peint une image pour son mur.	A woman is painting her wall white.	2.600000
+L'ajout d'aspirine à l'eau pourrait tuer la plante.	Men are trying to remove oil from a body of water.	0.000000
+Cinq enfants sont debout devant une tente.	People are out sitting in front of a garden.	0.600000
+Femme en chemise marron engagée dans une conversation avec une autre femme dans un blazer beige.	A girl in a blue dress and another girl in a purple dress, both smiling.	1.200000
+Joueurs de baseball jouant à un jeu dans le parc.	A basketball player, playing in the home coming game.	1.600000
+Ils se préparent pour un spectacle à l'école.	Two medical professionals in green look on at something.	0.000000
+La femme porte du jaune.	The woman is wearing red.	2.800000
+Des enfants souriants se tiennent devant un coucher de soleil sur l'océan.	People walking in the dark.	0.600000
+Un homme fait une cascade sur son vélo.	A man is doing a wheelie on his motorcycle.	3.200000
+Dix personnes conduisant des VTT.	4 people are riding bikes	1.600000
+Un jour nuageux, deux pêcheurs tentent de démêler leur grand filet de pêche sur le bord de la route.	Several men pull a fishing net up on to the beach.	3.000000
+Une personne vêtue de jaune fait des travaux routiers.	A person is doing very well on their skateboard.	0.200000
+La femme avait les cheveux bruns.	The woman has gray hair.	2.400000
+Image en noir et blanc d'une vague s'écrasant dans l'océan.	a small black dog in the ocean with some rocks in the background	0.600000
+Une dame et sa fille regardent au microscope.	A girl and a lady both looking through a microscope.	4.600000
+Deux travailleurs sont assis à côté de tuyaux en train de déjeuner	The construction workers are sitting down to eat lunch.	3.800000
+Un garçon fait un tour de planche à roulettes dans les escaliers du centre-ville.	a boy is running on the sidewalk	0.600000
+Un groupe de personnes vivant dans le désert	A group of people in the middle of the desert.	4.000000
+Deux enfants nagent.	Six kids are going swimming.	2.800000
+Trois humains promènent un chien.	Three people are walking a dog.	4.800000
+Il y a des gens dans la rue.	People are out on the street.	5.000000
+les gens nettoient leurs vêtements sales	People are getting their clothes cleaned.	5.000000
+Deux femmes sont perdues et appellent à l'aide.	Two Asian men are gathering materials for their business and their child had to come with them.	0.200000
+Un homme jette un sou dans une fontaine.	A little boy is throwing a man in water.	0.600000
+Les enfants tiennent des instruments de musique.	A group of children are singing and playing instruments	3.400000
+Deux filles jouent au docteur dans leur maison.	The two girls are walking with their father.	0.800000
+Une foule d'hommes portant des numéros de papier sur leurs chemises courent dans une course.	Several men running down a grass field wearing numbers on the front of their shirts.	3.600000
+Un groupe de personnes porte des uniformes de police pour procéder à une arrestation.	A group of police officers are wearing protection.	2.800000
+Les fruits doivent être consommés avec du jus de citron afin d'éviter l'oxydation de l'estomac.	three dogs growling On one another	0.000000
+Un médecin prescrit des médicaments à un patient.	A doctor prescribes a medicine.	4.400000
+Une femme est dans la salle de bain.	The woman is in a bathroom.	4.600000
+Spectateurs prenant des photos d'une voiture de rallye.	A crowd of people watching cars race down the track.	2.800000
+L'homme et la femme se reposent sur un canapé.	A man and woman are asleep on the couch.	4.000000
+l'homme envisage de tourner un mariage	the woman is going to a wedding.	1.400000
+Le garçon au maillot vert joue le gardien de but dans l'équipe de football.	The team in blue is playing a game against the team in white	1.000000
+Le vélo de l'enfant s'est mouillé.	She is putting away the bike.	1.200000
+Un soldat promène un chien.	A man walks a dog.	3.200000
+Une femme torse nu exploite une tondeuse à gazon.	A girl is mowing the grass with a lawn mower.	3.000000
+Les gens sont près de l'eau	People are near water.	5.000000
+Les deux officiers conduisent	Two officers are on horses.	2.200000
+Des amis entrent dans un immeuble	a man walks along walkway to the store	0.400000
+La dame a l'air triste parce que personne n'achète ses marchandises.	The lady is selling things.	2.000000
+Les rollers se déplacent.	Two vehicles are going towards the camera.	0.800000
+Il y a un homme plus âgé près d'une fenêtre.	A boy is near some stairs.	0.400000
+Un gars et une fille font de l'escalade avec des sacs à dos.	Two boys are riding on a toy with a blonde girl running long side of them.	0.000000
+À Abu Dhabi, le Golden Market est l'une des principales zones de shopping en plein air.	A busy city square in an asian country.	1.600000
+Une femme enceinte est en travail	a woman has a child.	1.600000
+Une volée d'oiseaux planait sur la plage de sable.	Birds are flying at a beach.	3.800000
+les gens rentrent chez eux	People waiting.	1.600000
+Les religieux profitent du plein air.	The group of people are enjoying the outdoors.	3.600000
+Une fille dans l'eau sans lunettes ni bonnet de bain.	A girl in water, with goggles and swimming cap.	3.000000
+Un homme effectue une cascade à l'extérieur.	A young man on a beach is performing skateboard stunts.	2.800000
+Un homme rit avec une femme	A man and a woman laughing.	4.800000
+Il est sur le point de courir dans le bateau	The man is getting his boat clean to take it out on the water.	1.200000
+2 vaches sont dans un champ.	Two sheep are in a field.	2.400000
+Un enfant mouillé profite de l'été.	A woman is enjoying the summer weather.	1.800000
+Il y avait une fille bloquée sur le toit.	The couple was on the bed.	0.200000
+Il y a quatre surfeurs des neiges qui sautent et qui sont dans les airs.	Two racers are coming to a turn.	1.000000
+La jeune fille a un permis de conduire	A man has a driver's license.	2.600000
+Les gens sur des motos portant des engins de course autour d'un circuit	People on motorcycles ride around a racetrack	3.800000
+Un homme est debout sur le sol avec un pinceau	A man with a crutch lying on the ground.	1.200000
+Les enfants sont au théâtre en train de regarder un film.	it is picture day for the boys	0.200000
+Deux femmes descendent le trottoir du magasin.	Two women walk down the sidewalk in the afternoon.	3.800000
+Un homme a son fils sur le dos	A man spent his time with his son.	2.400000
+Un groupe de personnes à la peau sombre passe devant des barbelés.	Two women are gossiping by a fence.	0.400000
+Zombies paradant autour de manger des cerveaux.	The zombies are eating flesh together.	3.400000
+Un groupe de personnes est assis sur une plage sur des serviettes en regardant les Blue Angels.	A group of people are sitting at a beach watching the Blue Angels.	4.200000
+Un basketteur effectue le 5e rebond de la nuit,	A tennis player in the middle of a game.	1.400000
+Trois personnes se réunissent pour prendre un café.	Two people make coffee.	2.400000
+Une jeune fille avec de la saleté sur son visage et un vélo d'enfant rouge est en arrière-plan.	The old woman in shorts and a white t-shirt is standing on a path watching children play.	0.800000
+Un hélicoptère s'apprête à décoller.	The plane is getting ready to take off.	2.800000
+Une file de scooters stationne au milieu d'une rue.	A line of motor bikes are parked in the middle of a street.	4.400000
+Un homme tenant un chat.	A man holding a dog.	3.000000
+Un homme faisant un tour de vélo sautant entouré d'arbres.	A boy riding a green trick bike over some steps outdoors.	3.000000
+Trois mecs en speedo ont les pieds sur la balustrade d'un bateau bronzé.	A few men on the deck are dropping another man into the water	1.600000
+Un groupe pataugeant dans une sorcière	A group wading across a ditch	2.800000
+Une femme saute et pose pour la caméra.	A woman poses for the camera.	4.000000
+Un homme est sur un toit	A man is holding a microphone in a room.	0.800000
+Il y a deux hommes près d'un mur.	Three women are sitting near a wall.	2.000000
+Les chats courent dans l'herbe.	Some dogs running through the park.	2.000000
+Les deux garçons jouent au ballon d'avant en arrière.	The players are kicking each other while attempting to kick the ball.	3.000000
+Deux filles courent.	Three boys are running.	2.200000
+Les deux hommes portent des jeans.	The two men are wearing pants.	4.400000
+Une petite fille dans un chemisier blanc et un pantalon bleu gambade sur l'herbe.	A woman in a green shirt and white pants golfs on the green.	1.800000
+L'homme sans chemise saute.	The man jumping is not wearing a shirt.	4.600000
+La femme tient les mains de l'homme.	The woman is checking the eyes of the man.	2.400000
+Un homme promène son chien sur la plage.	A man with his dog on the beach.	4.400000
+L'enfant est l'enfant de la femme.	There is a boy and a girl.	0.800000
+Un joueur de football botte le ballon.	The soccer player gave the ball a high kick.	3.800000
+Deux garçons en maillot de bain noir tiennent un autre garçon par les bras et les jambes sur une plage.	Man in white shirt flipping young boy in the water with four other boys surrounding them.	1.400000
+Le joueur tire les points gagnants.	The basketball player is about to score points for his team.	2.800000
+Un homme en chemise blanche et chapeau jouant de la guitare.	A man in a green shirt and black hat playing a guitar on stage.	2.800000
+Un homme à capuchon noir utilise une grande loupe pour regarder un livret.	A white hooded woman is using a magnifying glass to look at a booklet.	2.800000
+les gens courent un marathon	People are running a marathon	5.000000
+Un pilote de motocross passant pendant une course	A race car driver performs in the race of his life.	3.000000
+Un groupe de personnes est nerveux à l'idée de traverser l'eau.	A group of people are on the water.	2.200000
+Un groupe d'enfants organise un concours de saut d'obstacles.	A group of kids are having a sleepover.	1.200000
+La porte est bleue.	The gate is yellow.	1.600000
+La personne porte un fedora.	A man is wearing a uniform.	1.600000
+Une femme et un homme s'embrassent en regardant un film d'horreur.	A man and a woman watch a movie together.	2.800000
+Un homme en chemise bleue.	A man in a white shirt and blue pants is talking with a woman in a pink shirt.	1.800000
+Un couple joue au jeu de la vie.	The family is playing a game together.	2.600000
+La tête d'un enfant avec des lunettes noires est au point.	There is a woman with a full head of hair.	0.200000
+Un chien marche le long d'une plage avec des vagues déferlantes.	A boy with an oar walks out of the surf and onto a beach.	1.000000
+Deux hommes marchent le long de la plage.	Two men standing in the surf on a beach.	2.600000
+Femme blonde dans un tunnel.	The couple kissing is near a blond woman.	1.600000
+Un gars de l'entretien répare un filet sur un court de tennis.	A man removing a tennis net.	2.400000
+Un enfant est assis sur un ballon de soccer à l'extérieur.	A kid sitting on a soccer ball at the park.	4.200000
+Le corbeau bourdonnait alors qu'il sautillait dans l'herbe.	The skinny dog with the long tail is traveling through the field.	0.200000
+Un homme en manteau marron se frotte le nez.	A bald man with a red beard holds his hand near his mouth.	2.200000
+Le chien poursuit les oies.	One dog is chasing the other.	1.600000
+Petit enfant jouant avec la lettre P	2 young girls are sitting in front of a bookcase and 1 is reading a book.	0.800000
+Un chien brun saute.	A brown dog is jumping	5.000000
+l'homme attrape une balle	A man is kicking a ball.	3.000000
+Deux hommes sont assis dans la pièce.	Two men are standing in a room.	3.000000
+Un groupe d'adolescents en chemise rouge sourit.	A group of people are wearing orange shirts.	1.200000
+La femme attend son rendez-vous.	The woman is on her way to a date.	3.200000
