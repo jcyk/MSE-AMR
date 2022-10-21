@@ -337,11 +337,11 @@ def main():
         results_semeval17 = s.run(args, batcher)
         
     results_tatoeba = {}
-    if args.task_set in ['tatoeba', 'full']:
+    if args.task_set in ['tatoeba']:
         results_tatoeba = tatoeba.run(args, batcher)
     
     results_bucc = {}
-    if args.task_set in ['bucc', 'full']:
+    if args.task_set in ['bucc']:
         results_bucc = bucc_run.run(args, batcher)
         
     # Print evaluation results
